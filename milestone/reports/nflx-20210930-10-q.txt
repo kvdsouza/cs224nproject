@@ -1,0 +1,1582 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+		
+FORM 10-Q
+		
+(Mark One)
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended September 30, 2021
+OR
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                  to                 
+Commission File Number: 001-35727
+		
+Netflix, Inc.
+(Exact name of Registrant as specified in its charter)
+		
+											
+Delaware	77-0467272
+(State or other jurisdiction of
+incorporation or organization)	(I.R.S. Employer
+Identification Number)
+			
+100 Winchester Circle,	Los Gatos,	California	95032
+(Address of principal executive offices)	(Zip Code)
+(408) 540-3700
+(Registrant’s telephone number, including area code)
+		
+
+Securities registered pursuant to Section 12(b) of the Act:
+								
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Common stock, par value $0.001 per share	NFLX	NASDAQ Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☒    No   ☐  
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+														
+Large Accelerated Filer	☒		Accelerated filer	
+☐
+Non-accelerated filer	
+☐
+		Smaller reporting company	
+☐
+			Emerging growth company	
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+As of September 30, 2021, there were 442,952,194 shares of the registrant’s common stock, par value $0.001, outstanding.
+
+
+Table of Contents
+ 
+								
+		Page
+	Part I. Financial Information	
+Item 1.
+	
+Consolidated Financial Statements
+	
+		
+	
+Consolidated Statements of Operations
+	
+3
+	
+Consolidated Statements of Comprehensive Income
+	
+4
+	
+Consolidated Statements of Cash Flows
+	
+5
+	
+Consolidated Balance Sheets
+	
+6
+	
+Consolidated Statements of Stockholders' Equity
+	
+7
+	
+Notes to Consolidated Financial Statements
+	
+8
+Item 2.
+	
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+	
+19
+Item 3.
+	
+Quantitative and Qualitative Disclosures About Market Risk
+	
+35
+Item 4.
+	
+Controls and Procedures
+	
+35
+	Part II. Other Information	
+Item 1.
+	
+Legal Proceedings
+	
+35
+Item 1A.
+	
+Risk Factors
+	
+36
+Item 2.
+	
+Unregistered Sales of Equity Securities and Use of Proceeds
+	
+36
+Item 6.
+	
+Exhibits
+	
+36
+Exhibit Index
+		
+37
+Signatures
+		
+37
+
+2
+Table of Contents
+
+NETFLIX, INC.
+Consolidated Statements of Operations
+(unaudited)
+(in thousands, except per share data)
+
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+Revenues
+	$	7,483,467 			$	6,435,637 			$	21,988,526 			$	18,351,614 	
+Cost of revenues
+	4,206,589 			3,867,751 			12,093,108 			11,111,159 	
+Marketing
+	635,948 			527,597 			1,752,433 			1,465,797 	
+Technology and development
+	563,887 			453,802 			1,626,415 			1,342,664 	
+General and administrative
+	321,790 			271,624 			953,831 			800,947 	
+Operating income
+	1,755,253 			1,314,863 			5,562,739 			3,631,047 	
+Other income (expense):
+							
+Interest expense
+	(190,429)			(197,079)			(576,191)			(570,313)	
+Interest and other income (expense)
+	96,135 			(256,324)			302,702 			(367,802)	
+Income before income taxes
+	1,660,959 			861,460 			5,289,250 			2,692,932 	
+Provision for income taxes	(211,888)			(71,484)			(780,451)			(473,693)	
+Net income
+	$	1,449,071 			$	789,976 			$	4,508,799 			$	2,219,239 	
+							
+Earnings per share:
+							
+Basic
+	$	3.27 			$	1.79 			$	10.18 			$	5.04 	
+Diluted
+	$	3.19 			$	1.74 			$	9.90 			$	4.89 	
+Weighted-average shares of common stock outstanding:
+							
+Basic
+	442,778 			441,526 			443,052 			440,486 	
+Diluted
+	454,925 			455,088 			455,230 			453,846 	
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to the consolidated financial statements.
+3
+Table of Contents
+NETFLIX, INC.
+Consolidated Statements of Comprehensive Income
+(unaudited)
+(in thousands)
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+Net income	$	1,449,071 			$	789,976 			$	4,508,799 			$	2,219,239 	
+Other comprehensive income (loss):							
+Foreign currency translation adjustments
+	(29,610)			32,925 			(64,233)			22,374 	
+Comprehensive income	$	1,419,461 			$	822,901 			$	4,444,566 			$	2,241,613 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to the consolidated financial statements.
+4
+Table of Contents
+NETFLIX, INC.
+
+Consolidated Statements of Cash Flows
+(unaudited)
+(in thousands)
+																							
+   
+	Three Months Ended		Nine Months Ended
+   
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+Cash flows from operating activities:							
+Net income	$	1,449,071 			$	789,976 			$	4,508,799 			$	2,219,239 	
+Adjustments to reconcile net income to net cash provided by operating activities:							
+Additions to content assets	(4,666,237)			(2,653,886)			(12,047,563)			(8,458,943)	
+Change in content liabilities	(29,246)			(379,458)			(607,494)			(228,945)	
+Amortization of content assets	2,963,051 			2,733,743 			8,489,050 			7,824,287 	
+Depreciation and amortization of property, equipment and intangibles	70,253 			28,589 			144,428 			83,767 	
+Stock-based compensation expense	95,078 			106,357 			303,891 			307,586 	
+Foreign currency remeasurement loss (gain) on debt	(136,488)			249,194 			(326,744)			275,295 	
+Other non-cash items	102,211 			83,851 			282,971 			219,600 	
+Deferred income taxes	50,967 			(40,277)			261,827 			229,650 	
+Changes in operating assets and liabilities:							
+Other current assets	(95,145)			(22,974)			(369,073)			(147,261)	
+Accounts payable	24,836 			111,677 			(40,164)			(149,503)	
+Accrued expenses and other liabilities	269,774 			266,027 			276,241 			374,768 	
+Deferred revenue	(4,732)			10,941 			64,640 			115,457 	
+Other non-current assets and liabilities	(11,014)			(19,999)			(144,925)			(100,248)	
+Net cash provided by operating activities	82,379 			1,263,761 			795,884 			2,564,749 	
+Cash flows from investing activities:							
+Purchases of property and equipment	(167,327)			(109,811)			(358,606)			(349,567)	
+Change in other assets	(21,304)			(8,840)			(26,919)			(9,388)	
+Net cash used in investing activities	(188,631)			(118,651)			(385,525)			(358,955)	
+Cash flows from financing activities:							
+Proceeds from issuance of debt	— 			— 			— 			1,009,464 	
+Debt issuance costs	— 			— 			— 			(7,559)	
+Repayments of debt	— 			— 			(500,000)			— 	
+Proceeds from issuance of common stock	18,445 			68,665 			86,265 			201,419 	
+Repurchases of common stock	(100,000)			— 			(600,022)			— 	
+Net cash provided by (used in) financing activities	(81,555)			68,665 			(1,013,757)			1,203,324 	
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 	(63,843)			28,459 			(82,504)			(30,624)	
+Net increase (decrease) in cash, cash equivalents and restricted cash	(251,650)			1,242,234 			(685,902)			3,378,494 	
+Cash, cash equivalents and restricted cash at beginning of period 	7,804,618 			7,180,046 			8,238,870 			5,043,786 	
+Cash, cash equivalents and restricted cash at end of period 	$	7,552,968 			$	8,422,280 			$	7,552,968 			$	8,422,280 	
+See accompanying notes to the consolidated financial statements.
+5
+Table of Contents
+NETFLIX, INC.
+Consolidated Balance Sheets
+(in thousands, except share and par value data)
+
+											
+	As of
+   
+	September 30,
+2021		December 31,
+2020
+	(unaudited)		
+Assets
+			
+Current assets:
+			
+Cash and cash equivalents
+	$	7,526,681 			$	8,205,550 	
+Other current assets
+	1,889,106 			1,556,030 	
+Total current assets
+	9,415,787 			9,761,580 	
+Content assets, net
+	28,974,045 			25,383,950 	
+Property and equipment, net
+	1,220,114 			960,183 	
+Other non-current assets
+	3,129,911 			3,174,646 	
+Total assets
+	$	42,739,857 			$	39,280,359 	
+Liabilities and Stockholders’ Equity
+			
+Current liabilities:
+			
+Current content liabilities
+	$	4,110,962 			$	4,429,536 	
+Accounts payable
+	643,059 			656,183 	
+Accrued expenses and other liabilities
+	1,413,120 			1,102,196 	
+Deferred revenue
+	1,182,632 			1,117,992 	
+Short-term debt
+	699,473 			499,878 	
+Total current liabilities
+	8,049,246 			7,805,785 	
+Non-current content liabilities
+	2,301,026 			2,618,084 	
+Long-term debt
+	14,793,691 			15,809,095 	
+Other non-current liabilities
+	2,281,277 			1,982,155 	
+Total liabilities
+	27,425,240 			28,215,119 	
+Commitments and contingencies (Note 7)
+			
+Stockholders’ equity:
+			
+Common stock, $0.001 par value; 4,990,000,000 shares authorized at September 30, 2021 and December 31, 2020; 442,952,194 and 442,895,261 issued and outstanding at September 30, 2021 and December 31, 2020, respectively
+	3,852,531 			3,447,698 	
+Treasury stock at cost (1,182,410 shares at September 30, 2021)
+	(600,022)			— 	
+Accumulated other comprehensive income (loss)	(19,835)			44,398 	
+Retained earnings
+	12,081,943 			7,573,144 	
+Total stockholders’ equity
+	15,314,617 			11,065,240 	
+Total liabilities and stockholders’ equity
+	$	42,739,857 			$	39,280,359 	
+
+
+
+
+See accompanying notes to the consolidated financial statements.
+6
+Table of Contents
+NETFLIX, INC.
+Consolidated Statements of Stockholders’ Equity
+(unaudited)
+(in thousands)
+																										
+		Three Months Ended		Nine Months Ended
+ 		September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+Total stockholders' equity, beginning balances		$	13,863,871 			$	9,334,753 			$	11,065,240 			$	7,582,157 	
+								
+Common stock and additional paid-in capital:								
+Beginning balances
+		$	3,721,246 			$	3,127,813 			$	3,447,698 			$	2,793,929 	
+Issuance of common stock upon exercise of options
+		36,207 			69,312 			100,942 			201,967 	
+Stock-based compensation expense		95,078 			106,357 			303,891 			307,586 	
+Ending balances		$	3,852,531 			$	3,303,482 			$	3,852,531 			$	3,303,482 	
+								
+Treasury stock:								
+Beginning balances
+		$	(500,022)			$	— 			$	— 			$	— 	
+Repurchases of common stock to be held as treasury stock		(100,000)			— 			(600,022)			— 	
+Ending balances		$	(600,022)			$	— 			$	(600,022)			$	— 	
+								
+Accumulated other comprehensive loss:								
+Beginning balances
+		$	9,775 			$	(34,072)			$	44,398 			$	(23,521)	
+Other comprehensive income (loss)		(29,610)			32,925 			(64,233)			22,374 	
+Ending balances		$	(19,835)			$	(1,147)			$	(19,835)			$	(1,147)	
+								
+Retained earnings:								
+Beginning balances		$	10,632,872 			$	6,241,012 			$	7,573,144 			$	4,811,749 	
+Net income
+		1,449,071 			789,976 			4,508,799 			2,219,239 	
+Ending balances		$	12,081,943 			$	7,030,988 			$	12,081,943 			$	7,030,988 	
+								
+Total stockholders' equity, ending balances
+		$	15,314,617 			$	10,333,323 			$	15,314,617 			$	10,333,323 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to the consolidated financial statements.
+7
+Table of Contents
+NETFLIX, INC.
+Notes to Consolidated Financial Statements
+(unaudited)
+
+1. Basis of Presentation and Summary of Significant Accounting Policies
+The accompanying interim consolidated financial statements of Netflix, Inc. and its wholly owned subsidiaries (the “Company”) have been prepared in conformity with accounting principles generally accepted in the United States (“U.S.”) and are consistent in all material respects with those applied in the Company’s Annual Report on Form 10-K for the year ended December 31, 2020 filed with the Securities and Exchange Commission (the “SEC”) on January 28, 2021. The preparation of consolidated financial statements in conformity with U.S. generally accepted accounting principles (“GAAP”) requires management to make estimates and judgments that affect the amounts reported in the consolidated financial statements and accompanying notes. Significant items subject to such estimates and assumptions include the content asset amortization policy and the recognition and measurement of income tax assets and liabilities. The Company bases its estimates on historical experience and on various other assumptions that the Company believes to be reasonable under the circumstances. On a regular basis, the Company evaluates the assumptions, judgments and estimates. Actual results may differ from these estimates.
+The interim financial information is unaudited, but reflects all normal recurring adjustments that are, in the opinion of management, necessary to fairly present the information set forth herein. The interim consolidated financial statements should be read in conjunction with the audited consolidated financial statements and related notes included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2020. Interim results are not necessarily indicative of the results for a full year.
+There have been no material changes in the Company’s significant accounting policies as compared to the significant accounting policies described in the Company’s Annual Report on Form 10-K for the year ended December 31, 2020.
+
+Recently adopted accounting pronouncements
+In December 2019, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2019-12, Simplifying the Accounting for Income Taxes (Topic 740). ASU 2019-12 removes certain exceptions for performing intraperiod tax allocations, recognizing deferred taxes for investments, and calculating income taxes in interim periods. The guidance also simplifies the accounting for franchise taxes, transactions that result in a step-up in the tax basis of goodwill, and the effect of enacted changes in tax laws or rates in interim periods. The Company adopted ASU 2019-12 in the first quarter of 2021 and the adoption had no material impact to the Company’s consolidated financial statements.
+
+
+2. Revenue Recognition
+The Company's primary source of revenues is from monthly membership fees. Members are billed in advance of the start of their monthly membership and revenues are recognized ratably over each monthly membership period. Revenues are presented net of the taxes that are collected from members and remitted to governmental authorities. The Company is the principal in all its relationships where partners, including consumer electronics (“CE”) manufacturers, multichannel video programming distributors (“MVPDs”), mobile operators and internet service providers (“ISPs”), provide access to the service as the Company retains control over service delivery to its members. Typically, payments made to the partners, such as for marketing, are expensed. However, if there is no distinct service provided in exchange for the payments made to the partners or if the price that the member pays is established by the partners and there is no standalone price for the Netflix service (for instance, in a bundle), these payments are recognized as a reduction of revenues.
+The following tables summarize streaming revenue, paid net membership additions, and paid memberships at end of period by region for the three and nine months ended September 30, 2021 and September 30, 2020, respectively:
+
+United States and Canada (UCAN)
+																										
+		As of/ Three Months Ended		As of/ Nine Months Ended
+ 		September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+ 		(in thousands)
+Revenues		$	3,257,697 			$	2,933,445 			$	9,663,312 			$	8,475,891 	
+Paid net membership additions		73 			177 			88 			5,419 	
+Paid memberships at end of period (1)		74,024 			73,081 			74,024 			73,081 	
+
+
+8
+Table of Contents
+Europe, Middle East, and Africa (EMEA)
+																										
+		As of/ Three Months Ended		As of/ Nine Months Ended
+ 		September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+ 		(in thousands)
+Revenues		$	2,432,239 			$	2,019,083 			$	7,176,393 			$	5,635,094 	
+Paid net membership additions		1,804 			759 			3,802 			10,464 	
+Paid memberships at end of period (1)		70,500 			62,242 			70,500 			62,242 	
+
+Latin America (LATAM)
+																										
+		As of/ Three Months Ended		As of/ Nine Months Ended
+ 		September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+ 		(in thousands)
+Revenues		$	915,297 			$	789,384 			$	2,612,826 			$	2,368,205 	
+Paid net membership additions		330 			256 			1,451 			4,907 	
+Paid memberships at end of period (1)		38,988 			36,324 			38,988 			36,324 	
+
+Asia-Pacific (APAC)
+																										
+		As of/ Three Months Ended		As of/ Nine Months Ended
+ 		September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+ 		(in thousands)
+Revenues		$	834,002 			$	634,891 			$	2,395,896 			$	1,687,691 	
+Paid net membership additions		2,176 			1,012 			4,559 			7,271 	
+Paid memberships at end of period (1)		30,051 			23,504 			30,051 			23,504 	
+		
+(1) A paid membership (also referred to as a paid subscription) is defined as a membership that has the right to receive Netflix service following sign-up and a method of payment being provided, and that is not part of a free trial or certain other promotions that may be offered by the Company to new or rejoining members. A membership is canceled and ceases to be reflected in the above metrics as of the effective cancellation date. Voluntary cancellations generally become effective at the end of the prepaid membership period. Involuntary cancellations, as a result of a failed method of payment, become effective immediately. Memberships are assigned to territories based on the geographic location used at time of sign-up as determined by the Company’s internal systems, which utilize industry standard geo-location technology.
+Total U.S. revenues, inclusive of DVD revenues not reported in the tables above, were $3.0 billion and $9.0 billion, respectively, for the three and nine months ended September 30, 2021, and $2.8 billion and $8.0 billion, respectively, for the three and nine months ended September 30, 2020. DVD revenues were $44 million and $140 million, respectively, for the three and nine months ended September 30, 2021 and $59 million and $185 million, respectively, for the three and nine months ended September 30, 2020.
+Deferred revenue consists of membership fees billed that have not been recognized, as well as gift cards and other prepaid memberships that have not been fully redeemed. As of September 30, 2021, total deferred revenue was $1,183 million, the vast majority of which was related to membership fees billed that are expected to be recognized as revenue within the next month. The remaining deferred revenue balance, which is related to gift cards and other prepaid memberships, will be recognized as revenue over the period of service after redemption, which is expected to occur over the next 12 months. The $65 million increase in deferred revenue as compared to the balance of $1,118 million for the year ended December 31, 2020 is a result of the increase in membership fees billed due to increased members and average monthly revenue per paying member.
+
+9
+Table of Contents
+
+3. Earnings Per Share
+
+Basic earnings per share is computed using the weighted-average number of outstanding shares of common stock during the period. Diluted earnings per share is computed using the weighted-average number of outstanding shares of common stock and, when dilutive, potential outstanding shares of common stock during the period. Potential shares of common stock consist of incremental shares issuable upon the assumed exercise of stock options. The computation of earnings per share is as follows:
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+	(in thousands, except per share data)
+Basic earnings per share:							
+Net income
+	$	1,449,071 			$	789,976 			$	4,508,799 			$	2,219,239 	
+Shares used in computation:
+							
+Weighted-average shares of common stock outstanding	442,778 			441,526 			443,052 			440,486 	
+Basic earnings per share	$	3.27 			$	1.79 			$	10.18 			$	5.04 	
+							
+Diluted earnings per share:							
+Net income
+	$	1,449,071 			$	789,976 			$	4,508,799 			$	2,219,239 	
+Shares used in computation:
+							
+Weighted-average shares of common stock outstanding	442,778 			441,526 			443,052 			440,486 	
+Employee stock options	12,147 			13,562 			12,178 			13,360 	
+Weighted-average number of shares
+	454,925 			455,088 			455,230 			453,846 	
+Diluted earnings per share	$	3.19 			$	1.74 			$	9.90 			$	4.89 	
+
+Employee stock options with exercise prices greater than the average market price of the common stock were excluded from the diluted calculation as their inclusion would have been anti-dilutive. The following table summarizes the potential shares of common stock excluded from the diluted calculation:
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+	(in thousands)
+Employee stock options	279 			124 			441 			560 	
+10
+Table of Contents
+4. Cash, Cash Equivalents and Restricted Cash
+
+The following tables summarize the Company's cash, cash equivalents, and restricted cash as of September 30, 2021 and December 31, 2020:
+
+																							
+ 	As of September 30, 2021
+ 	Cash and cash equivalents		Other Current Assets		Non-current Assets		Total
+ 	(in thousands)
+Cash	$	4,837,580 			$	1,980 			$	24,161 			$	4,863,721 	
+Level 1 securities:							
+Money market funds	2,388,562 			— 			146 			2,388,708 	
+Level 2 securities:							
+Foreign Time Deposits	300,539 			— 			— 			300,539 	
+							
+	$	7,526,681 			$	1,980 			$	24,307 			$	7,552,968 	
+
+																							
+ 	As of December 31, 2020
+ 	Cash and cash equivalents		Other Current Assets		Non-current Assets		Total
+ 	(in thousands)
+Cash	$	3,331,860 			$	1,783 			$	31,284 			$	3,364,927 	
+Level 1 securities:							
+Money market funds	4,573,690 			— 			253 			4,573,943 	
+Level 2 securities:							
+Foreign Time Deposits	300,000 			— 			— 			300,000 	
+							
+	$	8,205,550 			$	1,783 			$	31,537 			$	8,238,870 	
+Other current assets include restricted cash for deposits related to self insurance. Non-current assets include restricted cash related to letter of credit agreements. The fair value of cash equivalents included in the Level 2 category is based on observable inputs, such as quoted prices for similar assets at the measurement date; quoted prices in markets that are not active; or other inputs that are observable, either directly or indirectly.
+See Note 6 Debt to the consolidated financial statements for further information regarding the fair value of the Company’s senior notes.
+There were no material gross realized gains or losses in the three and nine months ended September 30, 2021 and 2020, respectively.
+
+11
+
+5. Balance Sheet Components
+
+Content Assets, Net
+Content assets consisted of the following:
+											
+	As of
+	September 30,
+2021		December 31,
+2020
+	(in thousands)
+Licensed content, net
+	$	13,111,028 			$	13,747,607 	
+			
+Produced content, net
+			
+Released, less amortization
+	6,093,870 			5,809,681 	
+In production
+	8,842,122 			4,827,455 	
+In development and pre-production
+	927,025 			999,207 	
+	15,863,017 			11,636,343 	
+
+			
+Content assets, net
+	$	28,974,045 			$	25,383,950 	
+			
+
+As of September 30, 2021, approximately $5,799 million, $3,092 million, and $1,879 million of the $13,111 million unamortized cost of the licensed content is expected to be amortized in each of the next three years.  As of September 30, 2021, approximately $2,393 million, $1,728 million, and $1,023 million of the $6,094 million unamortized cost of the produced content that has been released is expected to be amortized in each of the next three years.
+As of September 30, 2021, the amount of accrued participations and residuals was not material.
+The following tables represent the amortization of content assets:
+											
+	Three Months Ended
+ 	September 30,
+2021		September 30,
+2020
+	(in thousands)
+Licensed content	$	1,965,514 			$	1,885,259 	
+Produced content	997,537 			848,484 	
+Total	$	2,963,051 			$	2,733,743 	
+
+											
+	Nine Months Ended
+ 	September 30,
+2021		September 30,
+2020
+	(in thousands)
+Licensed content	$	5,679,398 			$	5,628,499 	
+Produced content	2,809,652 			2,195,788 	
+Total	$	8,489,050 			$	7,824,287 	
+
+12
+
+Property and Equipment, Net
+Property and equipment and accumulated depreciation consisted of the following:
+																				
+		As of		
+		September 30,
+2021		December 31,
+2020		Estimated Useful Lives
+		(in thousands)		
+Land
+		$	57,386 			$	50,700 			
+Buildings
+		48,060 			42,717 			30 years
+Leasehold improvements
+		808,312 			524,537 			Over life of lease
+Furniture and fixtures
+		136,076 			110,185 			
+3 years
+Information technology
+		356,953 			283,014 			3 years
+Corporate aircraft
+		110,785 			110,629 			8 years
+Machinery and equipment
+		33,546 			34,633 			
+3-5 years
+Capital work-in-progress
+		262,367 			298,558 			
+Property and equipment, gross
+		1,813,485 			1,454,973 			
+Less: Accumulated depreciation
+		(593,371)			(494,790)			
+Property and equipment, net
+		$	1,220,114 			$	960,183 			
+
+
+Leases
+The Company has entered into operating leases primarily for real estate. Operating leases are included in "Other non-current assets" on the Company's Consolidated Balance Sheets, and represent the Company’s right to use the underlying asset for the lease term. The Company’s obligations to make lease payments are included in "Accrued expenses and other liabilities" and "Other non-current liabilities" on the Company's Consolidated Balance Sheets. The Company has entered into various short-term operating leases, primarily for marketing billboards, with an initial term of twelve months or less. These leases are not recorded on the Company's Consolidated Balance Sheets. All operating lease expense is recognized on a straight-line basis over the lease term. Because the rate implicit in each lease is not readily determinable, the Company uses its incremental borrowing rate to determine the present value of the lease payments.
+Information related to the Company's operating right-of-use assets and related operating lease liabilities were as follows:
+											
+	Three Months Ended
+	September 30,
+2021		September 30,
+2020
+	(in thousands)
+Cash paid for operating lease liabilities	$	89,916 			$	70,917 	
+Right-of-use assets obtained in exchange for new operating lease obligations	252,377 			175,901 	
+											
+	Nine Months Ended
+	September 30,
+2021		September 30,
+2020
+	(in thousands)
+Cash paid for operating lease liabilities	$	251,827 			$	187,880 	
+Right-of-use assets obtained in exchange for new operating lease obligations	485,173 			592,331 	
+											
+	As of
+	September 30,
+2021		December 31,
+2020
+	(in thousands)
+Operating lease right-of-use assets, net	$	2,249,458 			$	2,037,726 	
+			
+Current operating lease liabilities	291,128 			256,222 	
+Non-current operating lease liabilities	2,222,316 			1,945,631 	
+Total operating lease liabilities	$	2,513,444 			$	2,201,853 	
+13
+
+Other Current Assets
+Other current assets consisted of the following:
+														
+		As of
+		September 30,
+2021		December 31,
+2020
+		(in thousands)
+Trade receivables
+		$	782,350 			$	610,819 	
+Prepaid expenses
+		305,091 			203,042 	
+Other
+		801,665 			742,169 	
+Total other current assets
+		$	1,889,106 			$	1,556,030 	
+
+
+6. Debt
+As of September 30, 2021, the Company had aggregate outstanding notes of $15,493 million, net of $96 million of issuance costs, with varying maturities (the "Notes"). Of the outstanding balance, $699 million, net of issuance costs, is classified as short-term debt on the Consolidated Balance Sheets. As of December 31, 2020, the Company had aggregate outstanding notes of $16,309 million, net of $107 million of issuance costs. Each of the Notes were issued at par and are senior unsecured obligations of the Company. Interest is payable semi-annually at fixed rates. A portion of the outstanding Notes is denominated in foreign currency (comprised of €5,170 million) and is remeasured into U.S. dollars at each balance sheet date (with remeasurement gain totaling $136 million and $327 million, respectively, for the three and nine months ended September 30, 2021).
+The following table provides a summary of the Company's outstanding debt and the fair values based on quoted market prices in less active markets as of September 30, 2021 and December 31, 2020:
+																																						
+		Principal Amount at Par						Level 2 Fair Value as of
+		September 30,
+2021		December 31,
+2020		Issuance Date		Maturity		September 30,
+2021		December 31,
+2020
+		(in millions)						(in millions)
+5.375% Senior Notes
+		$	— 			$	500 			February 2013		February 2021		$	— 			$	502 	
+5.500% Senior Notes
+		700 			700 			February 2015		February 2022		712 			735 	
+5.750% Senior Notes
+		400 			400 			February 2014		March 2024		442 			449 	
+5.875% Senior Notes
+		800 			800 			February 2015		February 2025		913 			921 	
+3.000% Senior Notes (1)
+		545 			574 			April 2020		June 2025		592 			616 	
+3.625% Senior Notes
+		500 			500 			April 2020		June 2025		532 			535 	
+4.375% Senior Notes
+		1,000 			1,000 			October 2016		November 2026		1,119 			1,110 	
+3.625% Senior Notes (1)
+		1,506 			1,588 			May 2017		May 2027		1,742 			1,776 	
+4.875% Senior Notes
+		1,600 			1,600 			October 2017		April 2028		1,844 			1,807 	
+5.875% Senior Notes
+		1,900 			1,900 			April 2018		November 2028		2,330 			2,280 	
+4.625% Senior Notes (1)
+		1,274 			1,344 			October 2018		May 2029		1,600 			1,630 	
+6.375% Senior Notes
+		800 			800 			October 2018		May 2029		1,013 			995 	
+3.875% Senior Notes (1)
+		1,390 			1,466 			April 2019		November 2029		1,683 			1,700 	
+5.375% Senior Notes
+		900 			900 			April 2019		November 2029		1,092 			1,061 	
+3.625% Senior Notes (1)
+		1,274 			1,344 			October 2019		June 2030		1,529 			1,533 	
+4.875% Senior Notes
+		1,000 			1,000 			October 2019		June 2030		1,179 			1,155 	
+		$	15,589 			$	16,416 							$	18,322 			$	18,805 	
+(1) The following Senior Notes have a principal amount denominated in euro: 3.000% Senior Notes for €470 million, 3.625% Senior Notes for €1,300 million, 4.625% Senior Notes for €1,100 million, 3.875% Senior Notes for €1,200 million, and 3.625% Senior Notes for €1,100 million.
+In February 2021, the Company repaid upon maturity the $500 million aggregate principal amount of its 5.375% Senior Notes due February 2021.
+The expected timing of principal and interest payments for the Company’s outstanding Notes are as follows:
+14
+Table of Contents
+											
+	As of 
+	September 30,
+2021		December 31,
+2020
+	(in thousands)
+Less than one year
+	$	1,431,621 			$	1,264,020 	
+Due after one year and through three years
+	1,787,577 			2,136,997 	
+Due after three years and through five years
+	3,108,329 			3,614,906 	
+Due after five years
+	14,208,207 			14,841,164 	
+Total debt obligations
+	$	20,535,734 			$	21,857,087 	
+
+Each of the Notes are repayable in whole or in part upon the occurrence of a change of control, at the option of the holders, at a purchase price in cash equal to 101% of the principal plus accrued interest. The Company may redeem the Notes prior to maturity in whole or in part at an amount equal to the principal amount thereof plus accrued and unpaid interest and an applicable premium. The Notes include, among other terms and conditions, limitations on the Company's ability to create, incur or allow certain liens; enter into sale and lease-back transactions; create, assume, incur or guarantee additional indebtedness of certain of the Company's subsidiaries; and consolidate or merge with, or convey, transfer or lease all or substantially all of the Company's and its subsidiaries assets, to another person. As of September 30, 2021 and December 31, 2020, the Company was in compliance with all related covenants.
+Revolving Credit Facility
+On June 17, 2021, the Company amended its unsecured revolving credit facility ("Revolving Credit Agreement") to, among other things, extend the maturity date from March 29, 2024 to June 17, 2026 and to increase the size of the facility from $750 million to $1 billion. Revolving loans may be borrowed, repaid and reborrowed until June 17, 2026, at which time all amounts borrowed must be repaid. The Company may use the proceeds of future borrowings under the Revolving Credit Agreement for working capital and general corporate purposes. As of September 30, 2021, no amounts have been borrowed under the Revolving Credit Agreement.
+The borrowings under the Revolving Credit Agreement bear interest, at the Company’s option, of either (i) a floating rate equal to a base rate (the “Alternate Base Rate”) or (ii) a rate equal to an adjusted London interbank offered rate (the “Adjusted LIBO Rate”), plus a margin of 0.75%. The Alternate Base Rate is defined as the greatest of (A) the rate of interest published by the Wall Street Journal, from time to time, as the prime rate, (B) the federal funds rate, plus 0.500% and (C) the Adjusted LIBO Rate for a one-month interest period, plus 1.00%. The Adjusted LIBO Rate is defined as the London interbank offered rate for deposits in U.S. dollars, for the relevant interest period, adjusted for statutory reserve requirements, but in no event shall the Adjusted LIBO Rate be less than 0.00% per annum. Regulatory authorities that oversee financial markets have announced that after the end of 2021, they would no longer compel banks currently reporting information used to set the Adjusted LIBO Rate to continue to make rate submissions, and that publication of the Adjusted LIBO Rate based upon U.S. Dollars is expected to cease on June 30, 2023. The Revolving Credit Agreement contains customary provisions for the replacement of the Adjusted LIBO Rate with an alternate benchmark rate, including a rate based on the secured overnight financing rate published by the Federal Reserve Bank of New York, as the Adjusted LIBO Rate is phased out in the lending market. The Company does not anticipate that the replacement of the Adjusted LIBO Rate with such alternative benchmark rate, as provided in the Revolving Credit Agreement, will materially impact its liquidity or financial position.
+The Company is also obligated to pay a commitment fee on the undrawn amounts of the Revolving Credit Agreement at an annual rate of 0.10%. The Revolving Credit Agreement requires the Company to comply with certain covenants, including covenants that limit or restrict the ability of the Company’s subsidiaries to incur debt and limit or restrict the ability of the Company and its subsidiaries to grant liens and enter into sale and leaseback transactions; and, in the case of the Company or a guarantor, merge, consolidate, liquidate, dissolve or sell, transfer, lease or otherwise dispose of all or substantially all of the assets of the Company and its subsidiaries, taken as a whole. As of September 30, 2021 and December 31, 2020, the Company was in compliance with all related covenants.
+
+
+7. Commitments and Contingencies
+
+Content
+As of September 30, 2021, the Company had $22.5 billion of obligations comprised of $4.1 billion included in "Current content liabilities" and $2.3 billion of "Non-current content liabilities" on the Consolidated Balance Sheets and $16.1 billion of obligations that are not reflected on the Consolidated Balance Sheets as they did not yet meet the criteria for asset recognition.
+As of December 31, 2020, the Company had $19.2 billion of obligations comprised of $4.4 billion included in "Current content liabilities" and $2.6 billion of "Non-current content liabilities" on the Consolidated Balance Sheets and $12.2 billion of obligations that are not reflected on the Consolidated Balance Sheets as they did not yet meet the criteria for asset recognition.
+The expected timing of payments for these content obligations is as follows:
+15
+Table of Contents
+											
+	As of 
+	September 30,
+2021		December 31,
+2020
+	(in thousands)
+Less than one year
+	$	10,017,405 			$	8,980,868 	
+Due after one year and through three years
+	8,991,781 			7,819,563 	
+Due after three years and through five years
+	2,860,871 			1,973,091 	
+Due after five years
+	595,483 			445,308 	
+Total content obligations
+	$	22,465,540 			$	19,218,830 	
+Content obligations include amounts related to the acquisition, licensing and production of content. Obligations that are in non-U.S. dollar currencies are translated to the U.S. dollar at period end rates. An obligation for the production of content includes non-cancelable commitments under creative talent and employment agreements as well as other production related commitments. An obligation for the acquisition and licensing of content is incurred at the time the Company enters into an agreement to obtain future titles. Once a title becomes available, a content liability is recorded on the Consolidated Balance Sheets. Certain agreements include the obligation to license rights for unknown future titles, the ultimate quantity and/or fees for which are not yet determinable as of the reporting date. Traditional film output deals, or certain TV series license agreements where the number of seasons to be aired is unknown, are examples of such license agreements. The Company does not include any estimated obligation for these future titles beyond the known minimum amount. However, the unknown obligations are expected to be significant.
+Legal Proceedings
+From time to time, in the normal course of its operations, the Company is subject to litigation matters and claims, including claims relating to employee relations, business practices and patent infringement. Litigation can be expensive and disruptive to normal business operations. Moreover, the results of complex legal proceedings are difficult to predict and the Company's view of these matters may change in the future as the litigation and events related thereto unfold. The Company expenses legal fees as incurred. The Company records a provision for contingent losses when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated. An unfavorable outcome to any legal matter, if material, could have an adverse effect on the Company's operations or its financial position, liquidity or results of operations.
+The Company is involved in litigation matters not listed herein but does not consider the matters to be material either individually or in the aggregate at this time. The Company's view of the matters not listed may change in the future as the litigation and events related thereto unfold.
+Indemnification
+In the ordinary course of business, the Company has entered into contractual arrangements under which it has agreed to provide indemnification of varying scope and terms to business partners and other parties with respect to certain matters, including, but not limited to, losses arising out of the Company’s breach of such agreements and out of intellectual property infringement claims made by third parties. In these circumstances, payment may be conditional on the other party making a claim pursuant to the procedures specified in the particular contract.
+The Company's obligations under these agreements may be limited in terms of time or amount, and in some instances, the Company may have recourse against third parties for certain payments. In addition, the Company has entered into indemnification agreements with its directors and certain of its officers that will require it, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors or officers. The terms of such obligations vary.
+It is not possible to make a reasonable estimate of the maximum potential amount of future payments under these or similar agreements due to the conditional nature of the Company’s obligations and the unique facts and circumstances involved in each particular agreement. No amount has been accrued in the accompanying consolidated financial statements with respect to these indemnification obligations.
+
+
+8. Stockholders’ Equity
+Stock Option Plan
+In June 2020, the Company's stockholders approved the 2020 Stock Plan, which was adopted by the Company’s Board of Directors in March 2020 subject to stockholder approval. The 2020 Stock Plan is the successor to the 2011 Stock Plan and provides for the grant of incentive stock options to employees and for the grant of non-statutory stock options, stock appreciation rights, restricted stock and restricted stock units to employees, directors and consultants.
+16
+Table of Contents
+A summary of the activities related to the Company’s stock option plans is as follows:
+																	
+			Options Outstanding
+	Shares
+Available
+for Grant		Number of
+Shares		Weighted-
+Average
+Exercise Price
+(per share)
+Balances as of December 31, 2020	21,702,085 			18,676,810 			$	170.23 	
+Granted
+	(1,217,273)			1,217,273 			531.34
+Exercised
+	— 			(1,239,343)			81.47 	
+Expired
+	— 			(5,343)			32.57 	
+Balances as of September 30, 2021	20,484,812 			18,649,397 			$	199.74 	
+Vested and exercisable as of September 30, 2021			18,649,397 			$	199.74 	
+
+The aggregate intrinsic value of the Company's outstanding stock options as of September 30, 2021 was $7,657 million and represents the total pretax intrinsic value (the difference between the Company’s closing stock price on the last trading day of the third quarter of 2021 and the exercise price, multiplied by the number of in-the-money options) that would have been received by the option holders had all option holders exercised their options on the last trading day of the third quarter of 2021. This amount changes based on the fair market value of the Company’s common stock. The weighted-average remaining contractual term of the Company's outstanding stock options as of September 30, 2021 included in the table above was 5.27 years.
+A summary of the amounts related to option exercises, is as follows:
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+	(in thousands)
+Total intrinsic value of options exercised	$	263,507 			$	321,859 			$	581,817 			$	1,067,241 	
+Cash received from options exercised	18,445 			68,665 			86,265 			201,419 	
+Stock-based Compensation
+Stock options granted are exercisable for the full ten year contractual term regardless of employment status. The following table summarizes the assumptions used to value option grants using the lattice-binomial model and the valuation data:
+																							
+	Three Months Ended		Nine Months Ended
+	September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+Dividend yield	— 	%		— 	%		— 	%		— 	%
+Expected volatility	34 	%		45 	%		
+34% - 41%
+		
+37% - 45%
+Risk-free interest rate	1.37 	%		0.67 	%		
+1.08% - 1.62%
+		
+0.67% - 1.71%
+Suboptimal exercise factor	3.85 			3.62 			
+3.81 - 3.85
+		
+3.34 - 3.62
+Weighted-average fair value (per share)	$	240 			$	264 			$	250 			$	205 	
+Total stock-based compensation expense (in thousands)	$	95,078 			$	106,357 			$	303,891 			$	307,586 	
+Total income tax impact on provision (in thousands)	$	21,443 			$	24,292 			$	68,354 			$	68,435 	
+
+The Company considers several factors in determining the suboptimal exercise factor, including the historical and estimated option exercise behavior.
+The Company calculates expected volatility based solely on implied volatility. The Company believes that implied volatility of publicly traded options in its common stock is more reflective of market conditions, and given consistently high trade volumes of the options, can reasonably be expected to be a better indicator of expected volatility than historical volatility of its common stock.
+In valuing shares issued under the Company’s employee stock option plans, the Company bases the risk-free interest rate on U.S. Treasury zero-coupon issues with terms similar to the contractual term of the options. The Company does not anticipate paying any cash dividends in the foreseeable future and therefore uses an expected dividend yield of zero in the option valuation model. The Company does not use a post-vesting termination rate as options are fully vested upon grant date.
+17
+Table of Contents
+Stock Repurchases
+In March 2021, the Company’s Board of Directors authorized the repurchase of up to $5 billion of its common stock, with no expiration date. Stock repurchases may be effected through open market repurchases in compliance with Rule 10b-18 under the Exchange Act, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act, privately-negotiated transactions, accelerated stock repurchase plans, block purchases, or other similar purchase techniques and in such amounts as management deems appropriate. The Company is not obligated to repurchase any specific number of shares, and the timing and actual number of shares repurchased will depend on a variety of factors, including the Company’s stock price, general economic, business and market conditions, and alternative investment opportunities. The Company may discontinue any repurchases of its common stock at any time without prior notice. During the three and nine months ended September 30, 2021, the Company repurchased 180,845 and 1,182,410 shares, respectively, for an aggregate amount of $100 million and $600 million, respectively. As of September 30, 2021, $4.4 billion remain available for repurchases. Shares repurchased by the Company are accounted for when the transaction is settled. As of September 30, 2021, there were no unsettled share repurchases. Direct costs incurred to acquire the shares are included in the total cost of the shares.
+
+
+9. Income Taxes
+																										
+ 		Three Months Ended		Nine Months Ended
+ 		September 30,
+2021		September 30,
+2020		September 30,
+2021		September 30,
+2020
+ 		(in thousands, except percentages)
+Provision for income taxes		$	211,888 			$	71,484 			$	780,451 			$	473,693 	
+Effective tax rate		13 	%		8 	%		15 	%		18 	%
+The effective tax rates for the three and nine months ended September 30, 2021 differed from the Federal statutory rate primarily due to the impact of international provisions of the Tax Cuts and Jobs Act and recognition of excess tax benefits of stock-based compensation. The effective tax rates for the three and nine months ended September 30, 2020 differed from the Federal statutory rate primarily due to the recognition of excess tax benefits of stock-based compensation, partially offset by the establishment of a valuation allowance on the California Research and Development (“R&D”) credit in the quarter ended June 30, 2020.
+The increase in the effective tax rate for the three months ended September 30, 2021, as compared to the same period in 2020 was primarily due to a reduced benefit on percentage basis for excess tax benefits related to stock-based compensation due to higher pre-tax income as of September 30, 2021. The decrease in the effective tax rate for the nine months ended September 30, 2021, as compared to the same period in 2020 was primarily due to the establishment of a valuation allowance on the California R&D credit in the quarter ended June 30, 2020, offset by markedly reduced excess tax benefits related to stock-based compensation as of September 30, 2021. For the three and nine months ended September 30, 2021, the Company recognized a discrete tax benefit related to the excess tax benefits from stock-based compensation of $57 million and $123 million, respectively, compared to the three and nine months ended September 30, 2020 of $66 million and $223 million, respectively.
+Gross unrecognized tax benefits were $172 million and $140 million as of September 30, 2021 and December 31, 2020, respectively. The gross unrecognized tax benefits, if recognized by the Company, will result in a reduction of approximately $108 million to the provision for income taxes thereby favorably impacting the Company’s effective tax rate. As of September 30, 2021, gross unrecognized tax benefits of $39 million were classified as “Other non-current liabilities” and $133 million as a reduction to deferred tax assets which was classified as "Other non-current assets" in the Consolidated Balance Sheets. The Company includes interest and penalties related to unrecognized tax benefits within the "Provision for income taxes" on the Consolidated Statements of Operations and “Other non-current liabilities” in the Consolidated Balance Sheets. Interest and penalties included in the Company’s “Provision for income taxes” were not material in any of the periods presented.
+Deferred tax assets of $325 million and $589 million were classified as “Other non-current assets” on the Consolidated Balance Sheets as of September 30, 2021 and December 31, 2020, respectively. In evaluating its ability to realize the net deferred tax assets, the Company considered all available positive and negative evidence, including its past operating results and the forecast of future market growth, forecasted earnings, future taxable income, and prudent and feasible tax planning strategies. The Company has a valuation allowance of $350 million and $250 million as of September 30, 2021 and December 31, 2020, respectively. The valuation allowance is related to the California R&D credits and certain foreign tax attributes that the Company does not expect to realize.
+The Company files U.S. Federal, state and foreign tax returns. The Company is currently under examination by the IRS for 2016 through 2018 and is subject to examination for 2019 and 2020. The 2015 through 2020 state tax returns are subject to examination by various state tax authorities. The Company has no significant foreign jurisdiction audits underway. The years 2015 through 2020 generally remain subject to examination by foreign tax authorities.
+Given the potential outcome of the current examinations, as well as the impact of the current examinations on the potential expiration of the statute of limitations, it is reasonably possible that the balance of unrecognized tax benefits could significantly change within the next
+18
+Table of Contents
+twelve months. At this time, an estimate of the range of reasonably possible adjustments to the balance of unrecognized tax benefits cannot be made.
+
+
+10. Segment and Geographic Information
+
+The Company operates as one operating segment. The Company's chief operating decision maker ("CODM") is its co-chief executive officers, who review financial information presented on a consolidated basis for the purposes of making operating decisions, assessing financial performance and allocating resources.
+Total U.S. revenues were $3.0 billion and $9.0 billion, respectively, for the three and nine months ended September 30, 2021, and $2.8 billion and $8.0 billion, respectively, for the three and nine months ended September 30, 2020. See Note 2 Revenue Recognition for additional information about streaming revenue by region.
+The Company's long-lived tangible assets, as well as the Company's operating lease right-of-use assets recognized on the Consolidated Balance Sheets as of September 30, 2021 and December 31, 2020, were located as follows:
+											
+	As of
+	September 30,
+2021		December 31,
+2020
+	(in thousands)
+United States	$	2,546,867 			$	2,224,891 	
+International	922,705 			773,018 	
+
+
+
+Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the federal securities laws. These forward-looking statements include, but are not limited to statements regarding: our core strategy; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, adequacy of existing facilities, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases; seasonality; impact of foreign exchange rate fluctuations; the impact of the discontinuance of the LIBO Rate; future regulatory changes and their impact on our business; price changes and testing; impact of recently adopted accounting pronouncements; accounting treatment for changes related to content assets; membership growth, including impact of content and pricing changes on membership growth; partnerships; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; content amortization; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; and the impact of the coronavirus (COVID-19) pandemic and our response to it. These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ materially from those included in forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in our Annual Report on Form 10-K for the year ended December 31, 2020 filed with the Securities and Exchange Commission (“SEC”) on January 28, 2021, in particular the risk factors discussed under the heading “Risk Factors” in Part I, Item IA. 
+We assume no obligation to revise or publicly release any revision to any forward-looking statements contained in this Quarterly Report on Form 10-Q, unless required by law.
+Investors and others should note that we announce material financial information to our investors using our investor relations website (ir.netflix.net), SEC filings, press releases, public conference calls and webcasts. We use these channels, as well as social media and blogs to communicate with our members and the public about our company, our services and other issues. It is possible that the information we post on social media and blogs could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on the social media channels and blogs listed on our investor relations website.
+
+
+Overview
+We are one of the world’s leading entertainment services with approximately 214 million paid streaming memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials. Additionally, we continue to offer our DVD-by-mail service in the United States (“U.S.”).
+19
+Table of Contents
+We are a pioneer in the delivery of streaming entertainment, launching our streaming service in 2007. Since this launch, we have developed an ecosystem for internet-connected screens and have added increasing amounts of content that enable consumers to enjoy entertainment directly on their internet-connected screens. As a result of these efforts, we have experienced growing consumer acceptance of, and interest in, the delivery of streaming entertainment.
+Our core strategy is to grow our streaming membership business globally within the parameters of our operating margin target. We are continuously improving our members’ experience by expanding our content with a focus on a programming mix of content that delights our members and attracts new members. In addition, we are continuously enhancing our user interface and extending our streaming service to more internet-connected screens. Our members can download a selection of titles for offline viewing.
+Our membership growth exhibits a seasonal pattern that reflects variations when consumers buy internet-connected screens and when they tend to increase their viewing. Historically, the first and fourth quarters (October through March) represent our greatest streaming membership growth. In addition, our membership growth can be impacted by our content release schedule and changes to pricing.
+
+
+Results of Operations
+
+The following represents our consolidated performance highlights:
+																							
+	As of/ Three Months Ended		Change
+	September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+	(in thousands, except revenue per membership and percentages)
+Financial Results:
+							
+Streaming revenues
+	$	7,439,235 			$	6,376,803 			$	1,062,432 			17 	%
+DVD revenues	44,232 			58,834 			(14,602)			(25)	%
+Total revenues	$	7,483,467 			$	6,435,637 			$	1,047,830 			16 	%
+							
+Operating income	$	1,755,253 			$	1,314,863 			$	440,390 			33 	%
+Operating margin	23.5 	%		20.4 	%		3.1 	%		15 	%
+							
+Global Streaming Memberships:
+							
+Paid net membership additions	4,383 			2,204 			2,179 			99 	%
+Paid memberships at end of period	213,563 			195,151 			18,412 			9 	%
+Average paying memberships
+	211,372 			194,049 			17,323 			9 	%
+Average monthly revenue per paying membership
+	$	11.73 			$	10.95 			$	0.78 			7 	%
+
+Consolidated revenues for the three months ended September 30, 2021 increased 16% as compared to the three months ended September 30, 2020. The increase in our consolidated revenues was due to the 9% growth in average paying memberships and a 7% increase in average monthly revenue per paying membership. The increase in average monthly revenue per paying membership resulted from our price changes and favorable fluctuations in foreign exchange rates.
+The increase in operating margin is primarily due to content amortization growing at a slower rate as compared to the 16% increase in revenues as a result of delays in content releases due to the COVID-19 pandemic.
+The full extent of the impact of the COVID-19 pandemic on our business, operations and financial results will depend on numerous evolving factors that we may not be able to accurately predict. See Part I, Item 1A: “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2020 for additional details. We have implemented a phased-in return to our offices where COVID-related restrictions have eased though most of our workforce has had and continues in most instances to spend a significant amount of time working from home. While most of our productions have resumed, certain of our productions continue to experience disruption, as do the productions of our third-party content suppliers. Our other partners have similarly had their operations disrupted, including those partners that we use for our operations as well as development, production, and post-production of content. As a result, the pandemic has and continues to affect our ability to produce content, which in turn led to delays in certain content releases. The pandemic varies by geography, and government measures to contain COVID-19 or slow its spread, including orders to close all businesses not deemed “essential,” isolate residents to their homes or places of residence, and practice social distancing, continue to remain in effect or may be rescinded, modified, or reinstated. We anticipate that these actions and the global health crisis caused by COVID-19, including any resurgences, will continue to negatively impact business activity across the globe. We will continue to actively monitor the situation and may take further actions that alter our business operations as may be required by federal, state, local or foreign authorities, or that we determine are in the best interests of our employees, customers, partners and
+20
+Table of Contents
+stockholders.  It is not clear what the potential effects any such alterations or modifications may have on our business, including the effects on our customers, suppliers or vendors, or on our financial results.
+
+Streaming Revenues
+We derive revenues from monthly membership fees for services related to streaming content to our members. We offer a variety of streaming membership plans, the price of which varies by country and the features of the plan. As of September 30, 2021, pricing on our paid plans ranged from the U.S. dollar equivalent of $3 to $24 per month. We expect that from time to time the prices of our membership plans in each country may change and we may test other plan and price variations.
+The following tables summarize streaming revenue and other streaming membership information by region for the three and nine months ended September 30, 2021 and September 30, 2020.
+
+United States and Canada (UCAN)
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																										
+		As of/ Three Months Ended		Change
+ 		September 30, 2021		September 30, 2020		Q3'21 vs. Q3'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	3,257,697 			$	2,933,445 			$	324,252 			11 	%
+Paid net membership additions		73 			177 			(104)			(59)	%
+Paid memberships at end of period		74,024 			73,081 			943 			1 	%
+Average paying memberships		73,988 			72,993 			995 			1 	%
+Average monthly revenue per paying membership		$	14.68 			$	13.40 			$	1.28 			10 	%
+Constant currency change (1)								9 	%
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																										
+		As of/ Nine Months Ended		Change
+ 		September 30, 2021		September 30, 2020		YTD'21 vs. YTD'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	9,663,312 			$	8,475,891 			$	1,187,421 			14 	%
+Paid net membership additions		88 			5,419 			(5,331)			(98)	%
+Paid memberships at end of period		74,024 			73,081 			943 			1 	%
+Average paying memberships		74,105 			71,082 			3,023 			4 	%
+Average monthly revenue per paying membership		$	14.49 			$	13.25 			$	1.24 			9 	%
+Constant currency change (1)								9 	%
+
+
+Europe, Middle East, and Africa (EMEA)
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+21
+Table of Contents
+																										
+		As of/ Three Months Ended		Change
+ 		September 30, 2021		September 30, 2020		Q3'21 vs. Q3'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	2,432,239 			$	2,019,083 			$	413,156 			20 	%
+Paid net membership additions		1,804 			759 			1,045 			138 	%
+Paid memberships at end of period		70,500 			62,242 			8,258 			13 	%
+Average paying memberships		69,598 			61,863 			7,735 			13 	%
+Average monthly revenue per paying membership		$	11.65 			$	10.88 			$	0.77 			7 	%
+Constant currency change (1)								3 	%
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																										
+		As of/ Nine Months Ended		Change
+ 		September 30, 2021		September 30, 2020		YTD'21 vs. YTD'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	7,176,393 			$	5,635,094 			$	1,541,299 			27 	%
+Paid net membership additions		3,802 			10,464 			(6,662)			(64)	%
+Paid memberships at end of period		70,500 			62,242 			8,258 			13 	%
+Average paying memberships		68,601 			59,076 			9,525 			16 	%
+Average monthly revenue per paying membership		$	11.62 			$	10.60 			$	1.02 			10 	%
+Constant currency change (1)								3 	%
+
+
+Latin America (LATAM)
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																										
+		As of/ Three Months Ended		Change
+ 		September 30, 2021		September 30, 2020		Q3'21 vs. Q3'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	915,297 			$	789,384 			$	125,913 			16 	%
+Paid net membership additions		330 			256 			74 			29 	%
+Paid memberships at end of period		38,988 			36,324 			2,664 			7 	%
+Average paying memberships		38,823 			36,196 			2,627 			7 	%
+Average monthly revenue per paying membership		$	7.86 			$	7.27 			$	0.59 			8 	%
+Constant currency change (1)								8 	%
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																										
+		As of/ Nine Months Ended		Change
+ 		September 30, 2021		September 30, 2020		YTD'21 vs. YTD'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	2,612,826 			$	2,368,205 			$	244,621 			10 	%
+Paid net membership additions		1,451 			4,907 			(3,456)			(70)	%
+Paid memberships at end of period		38,988 			36,324 			2,664 			7 	%
+Average paying memberships		38,272 			34,752 			3,520 			10 	%
+Average monthly revenue per paying membership		$	7.59 			$	7.57 			$	0.02 			— 	%
+Constant currency change (1)								5 	%
+
+22
+Table of Contents
+
+Asia-Pacific (APAC)
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																										
+		As of/ Three Months Ended		Change
+ 		September 30, 2021		September 30, 2020		Q3'21 vs. Q3'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	834,002 			$	634,891 			$	199,111 			31 	%
+Paid net membership additions		2,176 			1,012 			1,164 			115 	%
+Paid memberships at end of period		30,051 			23,504 			6,547 			28 	%
+Average paying memberships		28,963 			22,998 			5,965 			26 	%
+Average monthly revenue per paying membership		$	9.60 			$	9.20 			$	0.40 			4 	%
+Constant currency change (1)								2 	%
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																										
+		As of/ Nine Months Ended		Change
+ 		September 30, 2021		September 30, 2020		YTD'21 vs. YTD'20
+ 		(in thousands, except revenue per membership and percentages)
+Revenues		$	2,395,896 			$	1,687,691 			$	708,205 			42 	%
+Paid net membership additions		4,559 			7,271 			(2,712)			(37)	%
+Paid memberships at end of period		30,051 			23,504 			6,547 			28 	%
+Average paying memberships		27,500 			20,732 			6,768 			33 	%
+Average monthly revenue per paying membership		$	9.68 			$	9.05 			$	0.63 			7 	%
+Constant currency change (1)								2 	%
+
+(1) We believe constant currency information is useful in analyzing the underlying trends in average monthly revenue per paying membership. In order to exclude the effect of foreign currency rate fluctuations on average monthly revenue per paying membership, we estimate current period revenue assuming foreign exchange rates had remained constant with foreign exchange rates from each of the corresponding months of the prior-year period. For the three and nine months ended September 30, 2021, our revenues would have been approximately $128 million and $485 million lower had foreign currency exchange rates remained constant with those for the three and nine months ended September 30, 2020.
+
+Cost of Revenues
+Amortization of content assets makes up the majority of cost of revenues. Expenses associated with the acquisition, licensing and production of content (such as payroll and related personnel expenses, costs associated with obtaining rights to music included in our content, overall deals with talent, miscellaneous production related costs and participations and residuals), streaming delivery costs and other operations costs make up the remainder of cost of revenues. We have built our own global content delivery network (“Open Connect”) to help us efficiently stream a high volume of content to our members over the internet. Delivery expenses, therefore, include equipment costs related to Open Connect, payroll and related personnel expenses and all third-party costs, such as cloud computing costs, associated with delivering content over the internet. Other operations costs include customer service and payment processing fees, including those we pay to our integrated payment partners, as well as other costs incurred in making our content available to members.
+ 
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																							
+	Three Months Ended		Change
+	September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+	(in thousands, except percentages)
+Cost of revenues
+	$	4,206,589		$	3,867,751		$	338,838 			9 	%
+As a percentage of revenues
+	56 	%		60 	%				
+23
+Table of Contents
+
+The increase in cost of revenues was primarily due to a $229 million increase in content amortization relating to our existing and new content, including more exclusive and original programming. Other costs of revenues increased $110 million primarily due to continued growth in our content production activities, coupled with an increase in payment processing fees driven by our growing member base. The decrease in cost of revenues as a percentage of revenues from 60% to 56% is primarily due to delays in content releases due to the COVID-19 pandemic, resulting in content amortization growing at a slower rate as compared to the growth in revenue.
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																							
+	Nine Months Ended		Change
+	September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+	(in thousands, except percentages)
+Cost of revenues
+	$	12,093,108 			$	11,111,159 			$	981,949 			9 	%
+As a percentage of revenues
+	55 	%		61 	%				
+
+The increase in cost of revenues was primarily due to a $665 million increase in content amortization relating to our existing and new content, including more exclusive and original programming. Other costs of revenues increased $317 million, primarily due to the continued growth in our content production activities, coupled with an increase in expenses associated with streaming delivery costs and payment processing fees driven by our growing member base. The increase in other cost of revenues was partially offset by a $50 million decrease in expenses associated with customer service, primarily due to higher activity resulting from the COVID-19 pandemic in the same prior year period. The decrease in cost of revenues as a percentage of revenues from 61% to 55% is primarily due to delays in content releases due to the COVID-19 pandemic, resulting in content amortization growing at a slower rate as compared to the growth in revenue.
+Marketing
+Marketing expenses consist primarily of advertising expenses and certain payments made to our marketing partners, including consumer electronics (“CE”) manufacturers, multichannel video programming distributors (“MVPDs”), mobile operators and internet service providers (“ISPs”). Advertising expenses include promotional activities such as digital and television advertising. Marketing expenses also include payroll and related expenses for personnel that support marketing activities.
+ 
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																							
+	Three Months Ended		Change
+	September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+	(in thousands, except percentages)
+Marketing
+	$	635,948 			$	527,597 			$	108,351 			21 	%
+As a percentage of revenues
+	8 	%		8 	%				
+
+The increase in marketing expenses was primarily due to an $87 million increase in advertising expenses.
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																							
+	Nine Months Ended		Change
+	September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+	(in thousands, except percentages)
+Marketing
+	$	1,752,433 			$	1,465,797 			$	286,636 			20 	%
+As a percentage of revenues
+	8 	%		8 	%				
+
+The increase in marketing expenses was primarily due to a $246 million increase in advertising expenses.
+
+24
+Table of Contents
+Technology and Development
+Technology and development expenses consist of payroll and related expenses for all technology personnel, as well as other costs incurred in making improvements to our service offerings, including testing, maintaining and modifying our user interface, our recommendations, merchandising and streaming delivery technology and infrastructure. Technology and development expenses also include costs associated with computer hardware and software.
+ 
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																							
+	Three Months Ended		Change
+	September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+	(in thousands, except percentages)
+Technology and development
+	$	563,887 			$	453,802 			$	110,085 			24 	%
+As a percentage of revenues
+	8 	%		7 	%				
+
+The increase in technology and development expenses was primarily due to a $95 million increase in personnel-related costs, primarily due to growth in average headcount to support the increase in our production activity and continued improvements in our streaming service.
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																							
+	Nine Months Ended		Change
+	September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+	(in thousands, except percentages)
+Technology and development
+	$	1,626,415 			$	1,342,664 			$	283,751 			21 	%
+As a percentage of revenues
+	7 	%		7 	%				
+
+The increase in technology and development expenses was primarily due to a $245 million increase in personnel-related costs, primarily due to growth in average headcount to support the increase in our production activity and continued improvements in our streaming service.
+
+General and Administrative
+General and administrative expenses consist of payroll and related expenses for corporate personnel. General and administrative expenses also include professional fees and other general corporate expenses.
+
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																							
+	Three Months Ended		Change
+	September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+	(in thousands, except percentages)
+General and administrative
+	$	321,790 			$	271,624 			$	50,166 			18 	%
+As a percentage of revenues
+	4 	%		4 	%				
+
+The increase in general and administrative expenses was primarily due to a $43 million increase in personnel-related costs, primarily due to growth in average headcount to support the increase in our production activity and continued improvements in our streaming service.
+25
+Table of Contents
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																							
+	Nine Months Ended		Change
+	September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+	(in thousands, except percentages)
+General and administrative
+	$	953,831 			$	800,947 			$	152,884 			19 	%
+As a percentage of revenues
+	4 	%		4 	%				
+
+The increase in general and administrative expenses was primarily due to a $88 million increase in personnel-related costs, primarily due to growth in average headcount to support the increase in our production activity and continued improvements in our streaming service. In addition, third-party expenses, including costs for contractors and consultants, increased $47 million.
+26
+Table of Contents
+Interest Expense
+Interest expense consists primarily of the interest associated with our outstanding debt obligations, including the amortization of debt issuance costs. See Note 6 Debt in the accompanying notes to our consolidated financial statements for further detail on our debt obligations.
+
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																										
+ 		Three Months Ended		Change
+ 		September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+ 		(in thousands, except percentages)
+Interest expense		$	190,429 			$	197,079 			$	(6,650)			(3)	%
+As a percentage of revenues		3 	%		3 	%				
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																										
+ 		Nine Months Ended		Change
+ 		September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+ 		(in thousands, except percentages)
+Interest expense		$	576,191 			$	570,313 			$	5,878 			1 	%
+As a percentage of revenues		3 	%		3 	%				
+Interest expense primarily consists of interest on our Notes of $186 million and $563 million for the three and nine months ended September 30, 2021. The decrease in interest expense for the three months ended September 30, 2021 as compared to the three months ended September 30, 2020 was due to the lower average aggregate principal of interest bearing notes outstanding. The increase in interest expense for the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020 was due to the higher average aggregate principal of interest bearing notes outstanding.
+
+Interest and Other Income (Expense)
+Interest and other income (expense) consists primarily of foreign exchange gains and losses on foreign currency denominated balances and interest earned on cash and cash equivalents.
+
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																										
+ 		Three Months Ended		Change
+ 		September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+ 		(in thousands, except percentages)
+Interest and other income (expense)		$	96,135 			$	(256,324)			$	352,459 			138 	%
+As a percentage of revenues		1 	%		(4)	%				
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+
+																										
+ 		Nine Months Ended		Change
+ 		September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+ 		(in thousands, except percentages)
+Interest and other income (expense)		$	302,702 			$	(367,802)			$	670,504 			182 	%
+As a percentage of revenues		1 	%		(2)	%				
+
+27
+Table of Contents
+Interest and other income (expense) increased in the three and nine months ended September 30, 2021 primarily due to foreign exchange gains of $103 million and $301 million, respectively, compared to losses of $258 million and $397 million, respectively, for the corresponding periods in 2020. In the three and nine months ended September 30, 2021, the foreign exchange gains were primarily driven by the non-cash gains of $136 million and $327 million, respectively, from the remeasurement of our €5,170 million Senior Notes, partially offset by the remeasurement of cash and content liability positions in currencies other than the functional currencies. In the three and nine months ended September 30, 2020, the foreign exchange losses were driven by the non-cash losses of $249 million and $275 million, respectively, from the remeasurement of our €5,170 million Senior Notes, coupled with the remeasurement of cash and content liability positions in currencies other than the functional currencies.
+
+Provision for Income Taxes
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																							
+ 		Three Months Ended		Change
+ 		September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+ 		(in thousands, except percentages)
+Provision for income taxes		$	211,888 			$	71,484 			$	140,404 		196 	%
+Effective tax rate		13 	%		8 	%			
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																							
+ 		Nine Months Ended		Change
+ 		September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+ 		(in thousands, except percentages)
+Provision for income taxes		$	780,451 			$	473,693 			$	306,758 		65 	%
+Effective tax rate		15 	%		18 	%			
+
+The effective tax rates for the three and nine months ended September 30, 2021 differed from the Federal statutory rate primarily due to the impact of international provisions of the Tax Cuts and Jobs Act and recognition of excess tax benefits of stock-based compensation.
+The increase in the effective tax rate for the three months ended September 30, 2021, as compared to the same period in 2020 was primarily due to a reduced benefit on percentage basis for excess tax benefits related to stock-based compensation due to higher pre-tax income as of September 30, 2021. The decrease in the effective tax rate for the nine months ended September 30, 2021, as compared to the same period in 2020 was primarily due to the establishment of a valuation allowance on the California R&D credit in the quarter ended June 30, 2020, offset by markedly reduced excess tax benefits related to stock-based compensation as of September 30, 2021.
+
+
+
+
+Liquidity and Capital Resources
+																							
+	As of		Change
+	September 30,
+2021		December 31,
+2020		September 30, 2021 vs. December 31, 2020
+	(in thousands, except percentages)
+Cash, cash equivalents and restricted cash	$	7,552,968 			$	8,238,870 			$	(685,902)			(8)	%
+Short-term and long-term debt	15,493,164 			16,308,973 			(815,809)			(5)	%
+
+28
+Table of Contents
+Cash, cash equivalents and restricted cash decreased $686 million in the nine months ended September 30, 2021 primarily due to the repurchase of stock and repayment of debt, partially offset by cash provided by operations.
+Debt, net of debt issuance costs, decreased $816 million primarily due to the repayment upon maturity of the $500 million aggregate principal amount of our 5.375% Senior Notes in February 2021, coupled with the remeasurement of our euro-denominated notes. The amount of principal and interest on our outstanding notes due in the next twelve months is $1,432 million. As of September 30, 2021, no amounts had been borrowed under the $1 billion Revolving Credit Agreement. See Note 6 Debt in the accompanying notes to our consolidated financial statements.
+We anticipate that our future capital needs from the debt market will be more limited compared to prior years. Our ability to obtain this or any additional financing that we may choose to, or need to, obtain will depend on, among other things, our development efforts, business plans, operating performance and the condition of the capital markets at the time we seek financing. We may not be able to obtain such financing on terms acceptable to us or at all. If we raise additional funds through the issuance of equity or debt securities, those securities may have rights, preferences or privileges senior to the rights of our common stock, and our stockholders may experience dilution.
+In March 2021, our Board of Directors authorized the repurchase of up to $5 billion of our common stock, with no expiration date. Stock repurchases may be effected through open market repurchases in compliance with Rule 10b-18 under the Exchange Act, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act, privately-negotiated transactions, accelerated stock repurchase plans, block purchases, or other similar purchase techniques and in such amounts as management deems appropriate. We are not obligated to repurchase any specific number of shares, and the timing and actual number of shares repurchased will depend on a variety of factors, including our stock price, general economic, business and market conditions, and alternative investment opportunities. We may discontinue any repurchases of our common stock at any time without prior notice. As of September 30, 2021, the Company has repurchased 1,182,410 shares of common stock for an aggregate amount of $600 million. As of September 30, 2021, $4.4 billion remains available for repurchases.
+Our primary uses of cash include the acquisition, licensing and production of content, streaming delivery, marketing programs and personnel-related costs. Cash payment terms for non-original content have historically been in line with the amortization period. Investments in original content, and in particular content that we produce and own, require more cash upfront relative to licensed content. For example, production costs are paid as the content is created, well in advance of when the content is available on the service and amortized. We expect to continue to significantly increase our investments in global content, particularly in original content, which will impact our liquidity. We currently anticipate that cash flows from operations, available funds and access to financing sources, including our revolving credit facility, will continue to be sufficient to meet our cash needs for at least the next twelve months.
+
+Free Cash Flow
+We define free cash flow as cash provided by (used in) operating activities less purchases of property and equipment and change in other assets. We believe free cash flow is an important liquidity metric because it measures, during a given period, the amount of cash generated that is available to repay debt obligations, make strategic acquisitions and investments and for certain other activities like stock repurchases. Free cash flow is considered a non-GAAP financial measure and should not be considered in isolation of, or as a substitute for, net income, operating income, net cash provided by (used in) operating activities, or any other measure of financial performance or liquidity presented in accordance with GAAP.
+In assessing liquidity in relation to our results of operations, we compare free cash flow to net income, noting that the major recurring differences are excess content payments over amortization, non-cash stock-based compensation expense, non-cash remeasurement gain/loss on our euro-denominated debt, and other working capital differences. Working capital differences include deferred revenue, excess property and equipment purchases over depreciation, taxes and semi-annual interest payments on our outstanding debt. Membership fees due are generally collected quickly.
+29
+Table of Contents
+ 
+Three months ended September 30, 2021 as compared to the three months ended September 30, 2020
+																							
+	Three Months Ended		Change
+	September 30,
+2021		September 30,
+2020		Q3'21 vs. Q3'20
+	(in thousands, except percentages)
+Net cash provided by operating activities
+	$	82,379 			$	1,263,761 			$	(1,181,382)			(93)	%
+Net cash used in investing activities
+	(188,631)			(118,651)			69,980 			59 	%
+Net cash provided by (used in) financing activities
+	(81,555)			68,665 			(150,220)			(219)	%
+							
+Non-GAAP reconciliation of free cash flow:
+							
+Net cash provided by operating activities
+	82,379 			1,263,761 			(1,181,382)			(93)	%
+Purchases of property and equipment
+	(167,327)			(109,811)			57,516 			52 	%
+Change in other assets
+	(21,304)			(8,840)			12,464 			141 	%
+Free cash flow
+	$	(106,252)			$	1,145,110 			$	(1,251,362)			(109)	%
+
+Net cash provided by operating activities decreased $1,181 million to $82 million for the three months ended September 30, 2021. The decrease in cash provided by operating activities was primarily driven by the increase in investments in content that require more upfront cash payments, partially offset by a $1,048 million or 16% increase in revenues. The payments for content assets increased $1,662 million, from $3,033 million to $4,695 million, or 55%, as compared to the increase in the amortization of content assets of $229 million, from $2,734 million to $2,963 million, or 8%. The increase in payments for content assets was primarily driven by delays in productions resulting from the pandemic that impacted the prior year period, which resulted in the timing of certain production payments being shifted into the current period. In addition, we had increased payments associated with higher operating expenses, primarily related to increased headcount to support our continued improvements in our streaming service and our international expansion.
+Net cash used in investing activities increased $70 million for the three months ended September 30, 2021, primarily due to an increase in purchases of property and equipment.
+Net cash provided by (used in) financing activities decreased $150 million for the three months ended September 30, 2021, due to the repurchases of common stock for an aggregate amount of $100 million in the three months ended September 30, 2021.
+Free cash flow was $1,555 million lower than net income for the three months ended September 30, 2021 primarily due to $1,732 million of cash payments for content assets over amortization expense and $136 million of non-cash remeasurement gain on our euro-denominated debt, partially offset by $218 million in other favorable working capital differences and $95 million of non-cash stock-based compensation expense.
+Free cash flow was $355 million higher than net income for the three months ended September 30, 2020, primarily due to $300 million favorable working capital differences, $249 million of non-cash remeasurement loss on our euro-denominated debt and $106 million non-cash stock-based compensation expense, partially offset by $300 million of cash payments for content assets over amortization expense.
+30
+Table of Contents
+
+Nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020
+																							
+	Nine Months Ended		Change
+	September 30,
+2021		September 30,
+2020		YTD'21 vs. YTD'20
+	(in thousands, except percentages)
+Net cash provided by operating activities
+	$	795,884 			$	2,564,749 			$	(1,768,865)			(69)	%
+Net cash used in investing activities
+	(385,525)			(358,955)			26,570 			7 	%
+Net cash provided by (used in) financing activities
+	(1,013,757)			1,203,324 			(2,217,081)			(184)	%
+							
+Non-GAAP reconciliation of free cash flow:
+							
+Net cash provided by operating activities
+	795,884 			2,564,749 			(1,768,865)			(69)	%
+Purchases of property and equipment
+	(358,606)			(349,567)			9,039 			3 	%
+Change in other assets
+	(26,919)			(9,388)			17,531 			187 	%
+Free cash flow
+	$	410,359 			$	2,205,794 			$	(1,795,435)			(81)	%
+
+Net cash provided by operating activities decreased $1,769 million to $796 million for the nine months ended September 30, 2021. The decrease in cash provided by operating activities was primarily driven by an increase in investments in content that require more upfront cash payments, partially offset by a $3,637 million or 20% increase in revenues. The payments for content assets increased $3,967 million, from $8,688 million to $12,655 million, or 46% as compared to the increase in the amortization of content assets of $665 million, from $7,824 million to $8,489 million, or 8%. The increase in payments for content assets was primarily driven by delays in productions resulting from the pandemic that impacted the prior year period, which resulted in the timing of certain production payments being shifted into the current period. In addition, we had increased payments associated with higher operating expenses, primarily related to increased headcount to support our continued improvements in our streaming service and our international expansion.
+Net cash used in investing activities increased $27 million for the nine months ended September 30, 2021, primarily due to the increase in purchases of other assets and property and equipment.
+Net cash provided by (used in) financing activities decreased $2,217 million in the nine months ended September 30, 2021, due to no debt issuances in the nine months ended September 30, 2021 as compared to proceeds from the issuance of debt of $1,002 million, net of $8 million issuance costs in the nine months ended September 30, 2020, coupled with the repurchases of common stock for an aggregate amount of $600 million in the nine months ended September 30, 2021 and repayment upon maturity of the $500 million aggregate principal amount of our 5.375% Senior Notes in February 2021.
+Free cash flow was $4,098 million lower than net income for the nine months ended September 30, 2021 primarily due to $4,166 million of cash payments for content assets over amortization expense and $327 million of non-cash remeasurement gain on our euro-denominated debt, partially offset by $304 million of non-cash stock-based compensation expense and $91 million in other favorable working capital differences.
+Free cash flow was $13 million lower than net income for the nine months ended September 30, 2020, primarily due to $864 million of cash payments for content assets over amortization expense partially offset by $308 million of non-cash stock-based compensation expense, $275 million of non-cash remeasurement loss on our euro-denominated debt, $239 million non-cash valuation allowance for deferred taxes due to legislation which imposed an annual cap on research and development credits and $29 million favorable other working capital differences.
+31
+Table of Contents
+
+Contractual Obligations
+
+For the purpose of this table, contractual obligations for purchases of goods or services are defined as agreements that are enforceable and legally binding and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. The expected timing of the payment of the obligations discussed below is estimated based on information available to us as of September 30, 2021. Timing of payments and actual amounts paid may be different depending on the time of receipt of goods or services or changes to agreed-upon amounts for some obligations. The following table summarizes our contractual obligations as of September 30, 2021:
+
+																																
+		Payments due by Period
+Contractual obligations (in thousands):		Total		Less than
+1 year		1-3 years		3-5 years		More than
+5 years
+Content obligations (1)
+		$	22,465,540 			$	10,017,405 			$	8,991,781 			$	2,860,871 			$	595,483 	
+Debt (2)
+		20,535,734 			1,431,621 			1,787,577 			3,108,329 			14,208,207 	
+Operating lease obligations (3)
+		3,275,668 			388,090 			755,782 			715,804 			1,415,992 	
+Other purchase obligations (4)
+		2,099,539 			1,726,126 			347,153 			5,345 			20,915 	
+Total
+		$	48,376,481 			$	13,563,242 			$	11,882,293 			$	6,690,349 			$	16,240,597 	
+
+(1)As of September 30, 2021, content obligations were comprised of $4.1 billion included in “Current content liabilities” and $2.3 billion of “Non-current content liabilities” on the Consolidated Balance Sheets and $16.1 billion of obligations that are not reflected on the Consolidated Balance Sheets as they did not then meet the criteria for recognition.
+Content obligations include amounts related to the acquisition, licensing and production of content. An obligation for the production of content includes non-cancelable commitments under creative talent and employment agreements and other production related commitments. An obligation for the acquisition and licensing of content is incurred at the time we enter into an agreement to obtain future titles. Once a title becomes available, a content liability is recorded on the Consolidated Balance Sheets. Certain agreements include the obligation to license rights for unknown future titles, the ultimate quantity and/or fees for which are not yet determinable as of the reporting date. Traditional film output deals, or certain TV series license agreements where the number of seasons to be aired is unknown, are examples of these types of agreements. The contractual obligations table above does not include any estimated obligation for the unknown future titles, payment for which could range from less than one year to more than five years. However, these unknown obligations are expected to be significant and we believe could include approximately $1 billion to $4 billion over the next three years, with the payments for the vast majority of such amounts expected to occur after the next twelve months. The foregoing range is based on considerable management judgments and the actual amounts may differ. Once we know the title that we will receive and the license fees, we include the amount in the contractual obligations table above.
+
+(2)Debt obligations include our Notes consisting of principal and interest payments. See Note 6 Debt to the consolidated financial statements for further details.
+
+(3)Operating lease obligations are comprised of operating lease liabilities included in "Accrued expenses and other liabilities" and "Other non-current liabilities" on the Consolidated Balance Sheets, inclusive of imputed interest. Operating lease obligations also include additional obligations that are not reflected on the Consolidated Balance Sheets as they did not meet the criteria for recognition. See Note 5 Balance Sheet Components in the accompanying notes to our consolidated financial statements for further details regarding leases.
+
+(4)Other purchase obligations include all other non-cancelable contractual obligations. These contracts are primarily related to acquisitions, streaming delivery and cloud computing costs, as well as other miscellaneous open purchase orders for which we have not received the related services or goods.
+
+32
+Table of Contents
+As of September 30, 2021, we had gross unrecognized tax benefits of $172 million. At this time, an estimate of the range of reasonably possible adjustments to the balance of unrecognized tax benefits cannot be made.
+
+Off-Balance Sheet Arrangements
+We do not have transactions with unconsolidated entities, such as entities often referred to as structured finance or special purpose entities, whereby we have financial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk, or credit risk support to us.
+
+
+Indemnification
+The information set forth under Note 7 Commitments and Contingencies to the consolidated financial statements under the caption “Indemnification” is incorporated herein by reference.
+
+Critical Accounting Policies and Estimates
+The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date of the consolidated financial statements, and the reported amounts of revenues and expenses during the reported periods. The SEC has defined a company’s critical accounting policies as the ones that are most important to the portrayal of a company’s financial condition and results of operations, and which require a company to make its most difficult and subjective judgments. Based on this definition, we have identified the critical accounting policies and judgments addressed below. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results may differ from these estimates.
+
+Content
+We acquire, license and produce content, including original programming, in order to offer our members unlimited viewing of video entertainment. The content licenses are for a fixed fee and specific windows of availability. Payment terms for certain content licenses and the production of content require more upfront cash payments relative to the amortization expense. Payments for content, including additions to content assets and the changes in related liabilities, are classified within "Net cash provided by (used in) operating activities" on the Consolidated Statements of Cash Flows.
+We recognize content assets (licensed and produced) as "Content assets, net" on the Consolidated Balance Sheets. For licensed content, we capitalize the fee per title and record a corresponding liability at the gross amount of the liability when the license period begins, the cost of the title is known and the title is accepted and available for streaming. For produced content, we capitalize costs associated with the production, including development cost, direct costs and production overhead. Participations and residuals are expensed in line with the amortization of production costs.
+Based on factors including historical and estimated viewing patterns, we amortize the content assets (licensed and produced) in “Cost of revenues” on the Consolidated Statements of Operations over the shorter of each title's contractual window of availability or estimated period of use or ten years, beginning with the month of first availability. The amortization is on an accelerated basis, as we typically expect more upfront viewing, for instance due to additional merchandising and marketing efforts, and film amortization is more accelerated than TV series amortization. On average, over 90% of a licensed or produced content asset is expected to be amortized within four years after its month of first availability. We review factors that impact the amortization of the content assets on a regular basis. Our estimates related to these factors require considerable management judgment.
+Our business model is subscription based as opposed to a model generating revenues at a specific title level. Content assets (licensed and produced) are predominantly monetized as a group and therefore are reviewed at a group level when an event or change in circumstances indicates a change in the expected usefulness of the content or that the fair value may be less than unamortized cost. To date, we have not identified any such event or changes in circumstances. If such changes are identified in the future, these aggregated content assets will be stated at the lower of unamortized cost or fair value. In addition, unamortized costs for assets that have been, or are expected to be, abandoned are written off.
+
+Income Taxes
+We record a provision for income taxes for the anticipated tax consequences of our reported results of operations using the asset and liability method. Deferred income taxes are recognized by applying enacted statutory tax rates applicable to future years to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases as well as net operating loss and tax credit carryforwards. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The measurement of deferred tax assets is reduced, if necessary, by a valuation allowance for any tax benefits for which future realization is uncertain.
+33
+Table of Contents
+Although we believe our assumptions, judgments and estimates are reasonable, changes in tax laws or our interpretation of tax laws and the resolution of any tax audits could significantly impact the amounts provided for income taxes in our consolidated financial statements.
+In evaluating our ability to recover our deferred tax assets, in full or in part, we consider all available positive and negative evidence, including our past operating results, and our forecast of future earnings, future taxable income and prudent and feasible tax planning strategies. The assumptions utilized in determining future taxable income require significant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses. Actual operating results in future years could differ from our current assumptions, judgments and estimates. However, we believe that it is more likely than not that most of the deferred tax assets recorded on our Consolidated Balance Sheets will ultimately be realized. We record a valuation allowance to reduce our deferred tax assets to the net amount that we believe is more likely than not to be realized. As of September 30, 2021, the valuation allowance of $350 million was related to the California R&D credits and certain foreign tax attributes that we do not expect to realize.
+We did not recognize certain tax benefits from uncertain tax positions within the provision for income taxes. We may recognize a tax benefit only if it is more likely than not the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are then measured based on the largest benefit that has a greater than 50% likelihood of being realized upon settlement. At September 30, 2021, our estimated gross unrecognized tax benefits were $172 million of which $108 million, if recognized, would favorably impact our future earnings. Due to uncertainties in any tax audit outcome, our estimates of the ultimate settlement of our unrecognized tax positions may change and the actual tax benefits may differ significantly from the estimates. See Note 9 Income Taxes to the consolidated financial statements for further information regarding income taxes.
+
+Recent Accounting Pronouncements
+
+The information set forth under Note 1 to the consolidated financial statements under the caption “Basis of Presentation and Summary of Significant Accounting Policies” is incorporated herein by reference.
+
+34
+Table of Contents
+
+Item 3.Quantitative and Qualitative Disclosures About Market Risk
+For financial market risks related to changes in interest rates, reference is made to Item 7A “Quantitative and Qualitative Disclosures About Market Risk” contained in Part II of our Annual Report on Form 10-K for the year ended December 31, 2020. Our exposure to market risk has not changed significantly since December 31, 2020.
+Foreign Currency Risk
+Revenues denominated in currencies other than the U.S. dollar account for 57% of the consolidated amount for the nine months ended September 30, 2021. We therefore have foreign currency risk related to these currencies, which are primarily the euro, the British pound, the Brazilian real, the Canadian dollar, the Mexican Peso, the Australian dollar, and the Japanese yen.
+Accordingly, changes in exchange rates, and in particular a weakening of foreign currencies relative to the U.S. dollar may negatively affect our revenue and operating income as expressed in U.S. dollars. In the nine months ended September 30, 2021, our revenues would have been approximately $485 million lower had foreign currency exchange rates remained consistent with those in the same period of 2020.
+We have also experienced and will continue to experience fluctuations in our net income as a result of gains (losses) on the settlement and the remeasurement of monetary assets and liabilities denominated in currencies that are not the functional currency. In the nine months ended September 30, 2021, we recognized a $301 million foreign exchange gain primarily due to the non-cash remeasurement of our Senior Notes denominated in euros, partially offset by the remeasurement of cash and content liabilities denominated in currencies other than the functional currencies.
+In addition, the effect of exchange rate changes on cash, cash equivalents and restricted cash as disclosed on the Consolidated Statements of Cash Flow for the nine months ended September 30, 2021 was a decrease of $83 million.
+We do not use foreign exchange contracts or derivatives to hedge any foreign currency exposures. The volatility of exchange rates depends on many factors that we cannot forecast with reliable accuracy. Our continued international expansion increases our exposure to exchange rate fluctuations and, as a result, such fluctuations could have a significant impact on our future results of operations.
+
+Item 4.Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our co-Chief Executive Officers and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on that evaluation, our co-Chief Executive Officers and Chief Financial Officer concluded that our disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q were effective in providing reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and that such information is accumulated and communicated to our management, including our co-Chief Executive Officers and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures.
+Our management, including our co-Chief Executive Officers and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected.
+ 
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting that occurred during the quarter ended September 30, 2021, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+
+PART II. OTHER INFORMATION
+Item 1.Legal Proceedings
+The information set forth under Note 7 Commitments and Contingencies in the notes to the consolidated financial statements under the caption “Legal Proceedings” is incorporated herein by reference.
+
+35
+Table of Contents
+Item 1A.Risk Factors
+There have been no material changes from the risk factors previously disclosed under the heading "Risk Factors" in the Company's Annual Report on Form 10-K for the year ended December 31, 2020.
+
+Item 2.Unregistered Sales of Equity Securities and Use of Proceeds
+Company Purchases of Equity Securities
+Stock repurchases during the three months ended September 30, 2021 were as follows:
+																										
+Period		Total Number of Shares Purchased (1)		Average Price Paid per Share (2)		Total Number of Shares Purchased as Part of Publicly Announced Programs (1)		Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (1)
+								(in thousands)
+July 1 - 31, 2021
+		— 			$	— 			— 			$	4,500,000 	
+August 1 - 31, 2021
+		93,000 			$	524.38 			93,000 			$	4,451,233 	
+September 1 - 30, 2021
+		87,845 			$	583.22 			87,845 			$	4,400,000 	
+Total
+		180,845 					180,845 			
+		
+(1) In March 2021, the Company’s Board of Directors authorized the repurchase of up to $5 billion of its common stock, with no expiration date. For further information regarding stock repurchase activity, see Note 8 Stockholders’ Equity to the consolidated financial statements in this Quarterly Report.
+(2) Average price paid per share includes costs associated with the repurchases.
+
+Item 6.Exhibits
+(a) Exhibits:
+
+    See Exhibit Index immediately following the signature page of this Quarterly Report on Form 10-Q.
+
+ 
+
+36
+Table of Contents
+EXHIBIT INDEX
+ 
+																																						
+Exhibit Number		Exhibit Description		
+Incorporated by Reference
+		Filed
+Herewith
+				Form		File No.		Exhibit		Filing Date		
+												
+3.1
+		
+Restated Certificate of Incorporation
+		10-Q		001-35727		3.1		July 17, 2015		
+												
+3.2
+		
+Amended and Restated Bylaws
+		8-K		001-35727		3.1		December 18, 2020		
+												
+10.1
+		
+Amended and Restated Executive Severance and Retention Incentive Plan
+		8-K		001-35727		10.1		September 10, 2021		
+												
+31.1
+		
+Certification of Co-Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+										X
+							
+31.2
+		
+Certification of Co-Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+										X
+												
+31.3
+		
+Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+										X
+							
+32.1*
+		
+Certifications of Co-Chief Executive Officers and Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+										X
+							
+101		The following financial statements from the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2021, formatted in Inline XBRL: (i) Consolidated Statements of Operations, (ii) Consolidated Statements of Comprehensive Income, (iii) Consolidated Statements of Cash Flows, (iv) Consolidated Balance Sheets, (v) Consolidated Statements of Stockholders' Equity and (vi) Notes to Consolidated Financial Statements, tagged as blocks of text and including detailed tags										X
+												
+104		The cover page from the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2021, formatted in Inline XBRL										X
+		
+
+
+*    These certifications are not deemed filed by the SEC and are not to be incorporated by reference in any filing we make under the Securities Act of 1933 or the Securities Exchange Act of 1934, irrespective of any general incorporation language in any filings.
+† Indicates a management contract or compensatory plan
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+											
+		
+NETFLIX, INC.
+Dated:	October 21, 2021	By:	/s/ Reed Hastings
+			Reed Hastings
+Co-Chief Executive Officer
+(Principal executive officer)
+			
+Dated:	October 21, 2021	By:	/s/ Spencer Neumann
+			Spencer Neumann
+Chief Financial Officer
+(Principal financial and accounting officer)
+
+37

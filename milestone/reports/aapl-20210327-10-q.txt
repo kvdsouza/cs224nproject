@@ -1,0 +1,1294 @@
+
+		
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+		
+FORM 10-Q
+		
+(Mark One)
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended March 27, 2021
+or
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from              to             .
+Commission File Number: 001-36743
+		
+aapl-20210327_g1.jpg
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+		
+								
+California		94-2404110
+(State or other jurisdiction
+of incorporation or organization)		(I.R.S. Employer Identification No.)
+		
+One Apple Park Way		
+Cupertino, California
+		95014
+(Address of principal executive offices)		(Zip Code)
+(408) 996-1010
+(Registrant’s telephone number, including area code)
+		
+Securities registered pursuant to Section 12(b) of the Act:
+								
+Title of each class
+	Trading symbol(s)	
+Name of each exchange on which registered
+Common Stock, $0.00001 par value per share
+	
+AAPL
+	
+The Nasdaq Stock Market LLC
+1.000% Notes due 2022	
+—
+	
+The Nasdaq Stock Market LLC
+1.375% Notes due 2024	
+—
+	
+The Nasdaq Stock Market LLC
+0.000% Notes due 2025	
+—
+	
+The Nasdaq Stock Market LLC
+0.875% Notes due 2025	
+—
+	
+The Nasdaq Stock Market LLC
+1.625% Notes due 2026	
+—
+	
+The Nasdaq Stock Market LLC
+2.000% Notes due 2027	
+—
+	
+The Nasdaq Stock Market LLC
+1.375% Notes due 2029	
+—
+	
+The Nasdaq Stock Market LLC
+3.050% Notes due 2029	
+—
+	
+The Nasdaq Stock Market LLC
+0.500% Notes due 2031	
+—
+	
+The Nasdaq Stock Market LLC
+3.600% Notes due 2042	
+—
+	
+The Nasdaq Stock Market LLC
+		
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes  ☒     No  ☐
+
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+Yes  ☒     No  ☐
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+																				
+Large accelerated filer		☒		Accelerated filer		☐
+Non-accelerated filer		☐		Smaller reporting company		☐
+				Emerging growth company		☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes  ☐     No  ☒
+16,687,631,000 shares of common stock were issued and outstanding as of April 16, 2021.
+		
+
+
+Apple Inc.
+
+Form 10-Q
+For the Fiscal Quarter Ended March 27, 2021
+TABLE OF CONTENTS
+
+								
+	Page
+Part I
+Item 1.
+	
+Financial Statements
+	
+1
+Item 2.
+	
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+	
+23
+Item 3.
+	
+Quantitative and Qualitative Disclosures About Market Risk
+	
+30
+Item 4.
+	
+Controls and Procedures
+	
+30
+Part II
+Item 1.
+	
+Legal Proceedings
+	
+31
+Item 1A.
+	
+Risk Factors
+	
+31
+Item 2.
+	
+Unregistered Sales of Equity Securities and Use of Proceeds
+	
+31
+Item 3.
+	
+Defaults Upon Senior Securities
+	
+31
+Item 4.
+	
+Mine Safety Disclosures
+	
+31
+Item 5.
+	
+Other Information
+	
+32
+Item 6.
+	
+Exhibits
+	
+32
+
+
+PART I — FINANCIAL INFORMATION
+Item 1.    Financial Statements
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(In millions, except number of shares which are reflected in thousands and per share amounts)
+
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Net sales:							
+   Products	$	72,683 			$	44,965 			$	168,361 			$	124,069 	
+   Services	16,901 			13,348 			32,662 			26,063 	
+Total net sales	89,584 			58,313 			201,023 			150,132 	
+							
+Cost of sales:							
+   Products	46,447 			31,321 			108,577 			83,396 	
+   Services	5,058 			4,622 			10,039 			9,149 	
+Total cost of sales	51,505 			35,943 			118,616 			92,545 	
+Gross margin	38,079 			22,370 			82,407 			57,587 	
+							
+Operating expenses:							
+Research and development	5,262 			4,565 			10,425 			9,016 	
+Selling, general and administrative	5,314 			4,952 			10,945 			10,149 	
+Total operating expenses	10,576 			9,517 			21,370 			19,165 	
+							
+Operating income	27,503 			12,853 			61,037 			38,422 	
+Other income/(expense), net	508 			282 			553 			631 	
+Income before provision for income taxes	28,011 			13,135 			61,590 			39,053 	
+Provision for income taxes	4,381 			1,886 			9,205 			5,568 	
+Net income	$	23,630 			$	11,249 			$	52,385 			$	33,485 	
+							
+Earnings per share:							
+Basic	$	1.41 			$	0.64 			$	3.11 			$	1.91 	
+Diluted	$	1.40 			$	0.64 			$	3.08 			$	1.89 	
+							
+Shares used in computing earnings per share:							
+Basic	16,753,476 			17,440,402 			16,844,298 			17,550,281 	
+Diluted	16,929,157 			17,618,765 			17,021,423 			17,718,591 	
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q2 2021 Form 10-Q | 1
+
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)
+(In millions)
+
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Net income
+	$	23,630 			$	11,249 			$	52,385 			$	33,485 	
+Other comprehensive income/(loss):							
+Change in foreign currency translation, net of tax
+	(78)			(566)			471 			(364)	
+							
+Change in unrealized gains/losses on derivative instruments, net of tax:
+							
+Change in fair value of derivatives
+	332 			(143)			28 			(32)	
+Adjustment for net (gains)/losses realized and included in net income
+	759 			634 			576 			236 	
+Total change in unrealized gains/losses on derivative instruments
+	1,091 			491 			604 			204 	
+							
+Change in unrealized gains/losses on marketable debt securities, net of tax:
+							
+Change in fair value of marketable debt securities
+	(1,403)			(2,325)			(775)			(2,200)	
+Adjustment for net (gains)/losses realized and included in net income
+	(75)			29 			(180)			19 	
+Total change in unrealized gains/losses on marketable debt securities
+	(1,478)			(2,296)			(955)			(2,181)	
+							
+Total other comprehensive income/(loss)	(465)			(2,371)			120 			(2,341)	
+Total comprehensive income	$	23,165 			$	8,878 			$	52,505 			$	31,144 	
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q2 2021 Form 10-Q | 2
+
+Apple Inc.
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(In millions, except number of shares which are reflected in thousands and par value)
+
+											
+	March 27,
+2021		September 26,
+2020
+ASSETS:
+Current assets:			
+Cash and cash equivalents	$	38,466 			$	38,016 	
+Marketable securities	31,368 			52,927 	
+Accounts receivable, net	18,503 			16,120 	
+Inventories	5,219 			4,061 	
+Vendor non-trade receivables	14,533 			21,325 	
+Other current assets	13,376 			11,264 	
+Total current assets	121,465 			143,713 	
+			
+Non-current assets:			
+Marketable securities	134,539 			100,887 	
+Property, plant and equipment, net	37,815 			36,766 	
+Other non-current assets	43,339 			42,522 	
+Total non-current assets
+	215,693 			180,175 	
+Total assets
+	$	337,158 			$	323,888 	
+			
+LIABILITIES AND SHAREHOLDERS’ EQUITY:
+Current liabilities:			
+Accounts payable	$	40,127 			$	42,296 	
+Other current liabilities	45,660 			42,684 	
+Deferred revenue	7,595 			6,643 	
+Commercial paper	5,000 			4,996 	
+Term debt	8,003 			8,773 	
+Total current liabilities	106,385 			105,392 	
+			
+Non-current liabilities:
+			
+Term debt
+	108,642 			98,667 	
+Other non-current liabilities
+	52,953 			54,490 	
+Total non-current liabilities
+	161,595 			153,157 	
+Total liabilities
+	267,980 			258,549 	
+			
+Commitments and contingencies			
+			
+Shareholders’ equity:			
+Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 16,686,305 and 16,976,763 shares issued and outstanding, respectively
+	54,203 			50,779 	
+Retained earnings	15,261 			14,966 	
+Accumulated other comprehensive income/(loss)	(286)			(406)	
+Total shareholders’ equity	69,178 			65,339 	
+Total liabilities and shareholders’ equity	$	337,158 			$	323,888 	
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q2 2021 Form 10-Q | 3
+
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (Unaudited)
+(In millions, except per share amounts)
+
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Total shareholders’ equity, beginning balances	$	66,224 			$	89,531 			$	65,339 			$	90,488 	
+							
+Common stock and additional paid-in capital:							
+Beginning balances	51,744 			45,972 			50,779 			45,174 	
+Common stock issued
+	561 			428 			561 			430 	
+Common stock withheld related to net share settlement of equity awards
+	(135)			(101)			(1,236)			(1,052)	
+Share-based compensation	2,033 			1,733 			4,099 			3,480 	
+Ending balances	54,203 			48,032 			54,203 			48,032 	
+							
+Retained earnings:							
+Beginning balances	14,301 			43,977 			14,966 			45,898 	
+Net income	23,630 			11,249 			52,385 			33,485 	
+Dividends and dividend equivalents declared	(3,495)			(3,432)			(7,042)			(6,917)	
+Common stock withheld related to net share settlement of equity awards
+	(174)			(96)			(2,047)			(632)	
+Common stock repurchased	(19,001)			(18,516)			(43,001)			(38,516)	
+Cumulative effect of change in accounting principle	— 			— 			— 			(136)	
+Ending balances	15,261 			33,182 			15,261 			33,182 	
+							
+Accumulated other comprehensive income/(loss):							
+Beginning balances	179 			(418)			(406)			(584)	
+Other comprehensive income/(loss)	(465)			(2,371)			120 			(2,341)	
+Cumulative effect of change in accounting principle	— 			— 			— 			136 	
+Ending balances	(286)			(2,789)			(286)			(2,789)	
+							
+Total shareholders’ equity, ending balances	$	69,178 			$	78,425 			$	69,178 			$	78,425 	
+							
+Dividends and dividend equivalents declared per share or RSU	$	0.205 			$	0.1925 			$	0.41 			$	0.385 	
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q2 2021 Form 10-Q | 4
+
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(In millions)
+											
+	Six Months Ended
+	March 27,
+2021		March 28,
+2020
+Cash, cash equivalents and restricted cash, beginning balances	$	39,789 			$	50,224 	
+Operating activities:			
+Net income	52,385 			33,485 	
+Adjustments to reconcile net income to cash generated by operating activities:			
+Depreciation and amortization	5,463 			5,602 	
+Share-based compensation expense	4,001 			3,407 	
+Deferred income tax benefit	(207)			(651)	
+Other	(474)			(259)	
+Changes in operating assets and liabilities:			
+Accounts receivable, net	(2,347)			7,284 	
+Inventories	(1,226)			699 	
+Vendor non-trade receivables	6,792 			7,923 	
+Other current and non-current assets	(4,333)			(8,866)	
+Accounts payable	(1,997)			(13,520)	
+Deferred revenue	1,642 			1,223 	
+Other current and non-current liabilities	3,045 			7,500 	
+Cash generated by operating activities	62,744 			43,827 	
+Investing activities:			
+Purchases of marketable securities	(74,424)			(66,489)	
+Proceeds from maturities of marketable securities	39,605 			39,738 	
+Proceeds from sales of marketable securities	21,645 			27,762 	
+Payments for acquisition of property, plant and equipment	(5,769)			(3,960)	
+Payments made in connection with business acquisitions, net	(9)			(1,134)	
+Other	— 			(572)	
+Cash used in investing activities	(18,952)			(4,655)	
+Financing activities:			
+Proceeds from issuance of common stock	561 			430 	
+Payments for taxes related to net share settlement of equity awards	(3,160)			(1,566)	
+Payments for dividends and dividend equivalents	(7,060)			(6,914)	
+Repurchases of common stock	(43,323)			(39,280)	
+Proceeds from issuance of term debt, net	13,923 			2,210 	
+Repayments of term debt	(4,500)			(5,250)	
+Proceeds from commercial paper, net	22 			1,518 	
+Proceeds from repurchase agreement	— 			2,556 	
+Other	(38)			(51)	
+Cash used in financing activities	(43,575)			(46,347)	
+Increase/(Decrease) in cash, cash equivalents and restricted cash	217 			(7,175)	
+Cash, cash equivalents and restricted cash, ending balances	$	40,006 			$	43,049 	
+Supplemental cash flow disclosure:			
+Cash paid for income taxes, net	$	10,276 			$	7,505 	
+Cash paid for interest	$	1,327 			$	1,689 	
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q2 2021 Form 10-Q | 5
+
+Apple Inc.
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Note 1 – Summary of Significant Accounting Policies
+Basis of Presentation and Preparation
+The condensed consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries (collectively “Apple” or the “Company”). Intercompany accounts and transactions have been eliminated. In the opinion of the Company’s management, the condensed consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The preparation of these condensed consolidated financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported. Actual results could differ materially from those estimates. Certain prior period amounts in the consolidated financial statements and accompanying notes have been reclassified to conform to the current period’s presentation. These condensed consolidated financial statements and accompanying notes should be read in conjunction with the Company’s annual consolidated financial statements and accompanying notes included in its Annual Report on Form 10-K for the fiscal year ended September 26, 2020 (the “2020 Form 10-K”).
+The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters. The Company’s fiscal years 2021 and 2020 span 52 weeks each. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years.
+Common Stock Split
+On August 28, 2020, the Company effected a four-for-one stock split to shareholders of record as of August 24, 2020. All share, restricted stock unit (“RSU”) and per share or per RSU information has been retroactively adjusted to reflect the stock split.
+Recently Adopted Accounting Pronouncements
+Financial Instruments – Credit Losses
+At the beginning of the first quarter of 2021, the Company adopted the Financial Accounting Standards Board’s Accounting Standards Update No. 2016-13, Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (“ASU 2016-13”), which modifies the measurement of expected credit losses on certain financial instruments. The Company adopted ASU 2016-13 utilizing the modified retrospective transition method. The adoption of ASU 2016-13 did not have a material impact on the Company’s condensed consolidated financial statements.
+Earnings Per Share
+The following table shows the computation of basic and diluted earnings per share for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (net income in millions and shares in thousands):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Numerator:							
+Net income	$	23,630 			$	11,249 			$	52,385 			$	33,485 	
+							
+Denominator:							
+Weighted-average basic shares outstanding	16,753,476 			17,440,402 			16,844,298 			17,550,281 	
+Effect of dilutive securities	175,681 			178,363 			177,125 			168,310 	
+Weighted-average diluted shares	16,929,157 			17,618,765 			17,021,423 			17,718,591 	
+							
+Basic earnings per share	$	1.41 			$	0.64 			$	3.11 			$	1.91 	
+Diluted earnings per share	$	1.40 			$	0.64 			$	3.08 			$	1.89 	
+Apple Inc. | Q2 2021 Form 10-Q | 6
+
+Note 2 – Revenue Recognition
+Net sales consist of revenue from the sale of iPhone®, Mac®, iPad®, Services and other products. The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers. Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers. For most of the Company’s Products net sales, control transfers when products are shipped. For the Company’s Services net sales, control transfers over time as services are delivered. Payment for Products and Services net sales is collected within a short period following transfer of control or commencement of delivery of services, as applicable.
+The Company records reductions to Products net sales related to future product returns, price protection and other customer incentive programs based on the Company’s expectations and historical experience.
+For arrangements with multiple performance obligations, which represent promises within an arrangement that are distinct, the Company allocates revenue to all distinct performance obligations based on their relative stand-alone selling prices (“SSPs”). When available, the Company uses observable prices to determine SSPs. When observable prices are not available, SSPs are established that reflect the Company’s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis. The Company’s process for estimating SSPs without observable prices considers multiple factors that may vary depending upon the unique facts and circumstances related to each performance obligation including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings, product-specific business objectives and the estimated cost to provide the performance obligation.
+The Company has identified up to three performance obligations regularly included in arrangements involving the sale of iPhone, Mac, iPad and certain other products. The first performance obligation, which represents the substantial portion of the allocated sales price, is the hardware and bundled software delivered at the time of sale. The second performance obligation is the right to receive certain product-related bundled services, which include iCloud®, Siri® and Maps. The third performance obligation is the right to receive, on a when-and-if-available basis, future unspecified software upgrades relating to the software bundled with each device. The Company allocates revenue and any related discounts to these performance obligations based on their relative SSPs. Because the Company lacks observable prices for the undelivered performance obligations, the allocation of revenue is based on the Company’s estimated SSPs. Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped. Revenue allocated to the product-related bundled services and unspecified software upgrade rights is deferred and recognized on a straight-line basis over the estimated period they are expected to be provided. Cost of sales related to delivered hardware and bundled software, including estimated warranty costs, are recognized at the time of sale. Costs incurred to provide product-related bundled services and unspecified software upgrade rights are recognized as cost of sales as incurred.
+For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For these arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that any unbilled consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized revenue, and has elected not to disclose amounts, related to these undelivered services.
+For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products including, but not limited to, evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For third-party applications sold through the App Store® and certain digital content sold through the Company’s other digital content stores, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains.
+The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
+Deferred Revenue
+As of March 27, 2021 and September 26, 2020, the Company had total deferred revenue of $11.9 billion and $10.2 billion, respectively. As of March 27, 2021, the Company expects 64% of total deferred revenue to be realized in less than a year, 26% within one-to-two years, 8% within two-to-three years and 2% in greater than three years.
+Apple Inc. | Q2 2021 Form 10-Q | 7
+
+Disaggregated Revenue
+Net sales disaggregated by significant products and services for the three- and six-month periods ended March 27, 2021 and March 28, 2020 were as follows (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+iPhone (1)
+	$	47,938 			$	28,962 			$	113,535 			$	84,919 	
+Mac (1)
+	9,102 			5,351 			17,777 			12,511 	
+iPad (1)
+	7,807 			4,368 			16,242 			10,345 	
+Wearables, Home and Accessories (1)(2)
+	7,836 			6,284 			20,807 			16,294 	
+Services (3)
+	16,901 			13,348 			32,662 			26,063 	
+Total net sales (4)
+	$	89,584 			$	58,313 			$	201,023 			$	150,132 	
+(1)Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.
+(2)Wearables, Home and Accessories net sales include sales of AirPods®, Apple TV®, Apple Watch®, Beats® products, HomePod®, iPod touch® and Apple-branded and third-party accessories.
+(3)Services net sales include sales from the Company’s advertising, AppleCare®, digital content and other services. Services net sales also include amortization of the deferred value of Maps, Siri, and free iCloud storage and Apple TV+SM services, which are bundled in the sales price of certain products.
+(4)Includes $2.7 billion of revenue recognized in the three months ended March 27, 2021 that was included in deferred revenue as of December 26, 2020, $1.9 billion of revenue recognized in the three months ended March 28, 2020 that was included in deferred revenue as of December 28, 2019, $4.1 billion of revenue recognized in the six months ended March 27, 2021 that was included in deferred revenue as of September 26, 2020, and $3.0 billion of revenue recognized in the six months ended March 28, 2020 that was included in deferred revenue as of September 28, 2019.
+The Company’s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 11, “Segment Information and Geographic Data” for the three- and six-month periods ended March 27, 2021 and March 28, 2020.
+Apple Inc. | Q2 2021 Form 10-Q | 8
+
+Note 3 – Financial Instruments
+Cash, Cash Equivalents and Marketable Securities
+The following tables show the Company’s cash and marketable securities by significant investment category as of March 27, 2021 and September 26, 2020 (in millions):
+																																									
+	March 27, 2021
+	Adjusted
+Cost		Unrealized
+Gains		Unrealized
+Losses		Fair
+Value		Cash and
+Cash
+Equivalents		Current
+Marketable
+Securities		
+Non-Current
+Marketable
+Securities
+Cash	$	19,444 			$	— 			$	— 			$	19,444 			$	19,444 			$	— 			$	— 	
+Level 1 (1):
+													
+Money market funds	11,998 			— 			— 			11,998 			11,998 			— 			— 	
+Mutual funds	143 			1 			(2)			142 			— 			142 			— 	
+Subtotal	12,141 			1 			(2)			12,140 			11,998 			142 			— 	
+Level 2 (2):
+													
+U.S. Treasury securities	21,331 			168 			(149)			21,350 			205 			8,058 			13,087 	
+U.S. agency securities	8,228 			5 			(72)			8,161 			— 			3,212 			4,949 	
+Non-U.S. government securities	19,849 			211 			(169)			19,891 			200 			2,881 			16,810 	
+Certificates of deposit and time deposits
+	7,198 			— 			— 			7,198 			5,814 			1,114 			270 	
+Commercial paper	3,353 			— 			— 			3,353 			805 			2,548 			— 	
+Corporate debt securities	88,108 			1,506 			(444)			89,170 			— 			13,036 			76,134 	
+Municipal securities	980 			16 			(1)			995 			— 			136 			859 	
+Mortgage- and asset-backed securities
+	22,624 			234 			(187)			22,671 			— 			241 			22,430 	
+Subtotal	171,671 			2,140 			(1,022)			172,789 			7,024 			31,226 			134,539 	
+Total (3)
+	$	203,256 			$	2,141 			$	(1,024)			$	204,373 			$	38,466 			$	31,368 			$	134,539 	
+																																									
+	September 26, 2020
+	Adjusted
+Cost		Unrealized
+Gains		Unrealized
+Losses		Fair
+Value		Cash and
+Cash
+Equivalents		Current
+Marketable
+Securities		Non-Current
+Marketable
+Securities
+Cash	$	17,773 			$	— 			$	— 			$	17,773 			$	17,773 			$	— 			$	— 	
+Level 1 (1): Money market funds
+	2,171 			— 			— 			2,171 			2,171 			— 			— 	
+Level 2 (2):
+													
+U.S. Treasury securities	28,439 			331 			— 			28,770 			8,580 			11,972 			8,218 	
+U.S. agency securities	8,604 			8 			— 			8,612 			2,009 			3,078 			3,525 	
+Non-U.S. government securities	19,361 			275 			(186)			19,450 			255 			3,329 			15,866 	
+Certificates of deposit and time deposits
+	10,399 			— 			— 			10,399 			4,043 			6,246 			110 	
+Commercial paper	11,226 			— 			— 			11,226 			3,185 			8,041 			— 	
+Corporate debt securities	76,937 			1,834 			(175)			78,596 			— 			19,687 			58,909 	
+Municipal securities	1,001 			22 			— 			1,023 			— 			139 			884 	
+Mortgage- and asset-backed securities
+	13,520 			314 			(24)			13,810 			— 			435 			13,375 	
+Subtotal	169,487 			2,784 			(385)			171,886 			18,072 			52,927 			100,887 	
+Total (3)
+	$	189,431 			$	2,784 			$	(385)			$	191,830 			$	38,016 			$	52,927 			$	100,887 	
+(1)Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities.
+(2)Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+(3)As of March 27, 2021 and September 26, 2020, total marketable securities included $19.0 billion and $18.6 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes”) and other agreements.
+Apple Inc. | Q2 2021 Form 10-Q | 9
+
+The Company may sell certain of its marketable debt securities prior to their stated maturities for reasons including, but not limited to, managing liquidity, credit risk, duration and asset allocation. The following table shows the fair value of the Company’s non-current marketable debt securities, by contractual maturity, as of March 27, 2021 (in millions):
+					
+Due after 1 year through 5 years	$	83,364 	
+Due after 5 years through 10 years	28,835 	
+Due after 10 years	22,340 	
+Total fair value	$	134,539 	
+The Company typically invests in highly rated securities, with the primary objective of minimizing the potential risk of principal loss. The Company’s investment policy generally requires securities to be investment grade and limits the amount of credit exposure to any one issuer. Fair values were determined for each individual security in the investment portfolio.
+Non-Marketable Securities
+The Company holds non-marketable equity securities of certain privately held companies without readily determinable fair values. As of March 27, 2021 and September 26, 2020, the Company’s non-marketable equity securities had a carrying value of $2.7 billion and $2.8 billion, respectively.
+Restricted Cash
+A reconciliation of the Company’s cash and cash equivalents in the Condensed Consolidated Balance Sheets to cash, cash equivalents and restricted cash in the Condensed Consolidated Statements of Cash Flows as of March 27, 2021 and September 26, 2020 is as follows (in millions):
+											
+	March 27,
+2021		September 26,
+2020
+Cash and cash equivalents	$	38,466 			$	38,016 	
+Restricted cash	1,540 			1,773 	
+Cash, cash equivalents and restricted cash	$	40,006 			$	39,789 	
+The Company’s restricted cash primarily consisted of cash to support the Company’s iPhone Upgrade Program. Substantially all of the Company’s restricted cash was included in other non-current assets in the Condensed Consolidated Balance Sheets.
+Derivative Financial Instruments
+The Company may use derivatives to partially offset its business exposure to foreign currency and interest rate risk on expected future cash flows, net investments in certain foreign subsidiaries, and certain existing assets and liabilities. However, the Company may choose not to hedge certain exposures for a variety of reasons including, but not limited to, accounting considerations or the prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in foreign currency exchange or interest rates.
+To protect gross margins from fluctuations in foreign currency exchange rates, certain of the Company’s subsidiaries whose functional currency is the U.S. dollar may hedge a portion of forecasted foreign currency revenue, and subsidiaries whose functional currency is not the U.S. dollar may hedge a portion of forecasted inventory purchases not denominated in the subsidiaries’ functional currencies. The Company may enter into forward contracts, option contracts or other instruments to manage this risk and may designate these instruments as cash flow hedges. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+To protect the net investment in a foreign operation from fluctuations in foreign currency exchange rates, the Company may enter into foreign currency forward and option contracts to offset a portion of the changes in the carrying amounts of these investments due to fluctuations in foreign currency exchange rates. In addition, the Company may use non-derivative financial instruments, such as its foreign currency–denominated debt, as hedges of its net investments in certain foreign subsidiaries. In both of these cases, the Company designates these instruments as net investment hedges.
+To protect the Company’s foreign currency–denominated term debt or marketable securities from fluctuations in foreign currency exchange rates, the Company may enter into forward contracts, cross-currency swaps or other instruments. These instruments may offset a portion of the foreign currency remeasurement gains or losses, or changes in fair value. The Company may designate these instruments as either cash flow or fair value hedges. As of March 27, 2021, the Company’s hedged term debt– and marketable securities–related foreign currency transactions are expected to be recognized within 21 years.
+Apple Inc. | Q2 2021 Form 10-Q | 10
+
+The Company may also enter into non-designated foreign currency contracts to offset a portion of the foreign currency exchange gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
+To protect the Company’s foreign currency–denominated term debt or marketable securities from fluctuations in interest rates, the Company may enter into interest rate swaps, options or other instruments. These instruments may offset a portion of the changes in interest income or expense, or changes in fair value. The Company designates these instruments as either cash flow or fair value hedges. As of March 27, 2021, the Company’s hedged interest rate transactions are expected to be recognized within seven years.
+Cash Flow Hedges
+Cash flow hedge amounts that are included in the assessment of hedge effectiveness are deferred in accumulated other comprehensive income/(loss) (“AOCI”) until the hedged item is recognized in earnings. Deferred gains and losses associated with cash flow hedges of foreign currency revenue are recognized as a component of net sales in the same period as the related revenue is recognized, and deferred gains and losses related to cash flow hedges of inventory purchases are recognized as a component of cost of sales in the same period as the related costs are recognized. Deferred gains and losses associated with cash flow hedges of interest income or expense are recognized in other income/(expense), net (“OI&E”) in the same period as the related income or expense is recognized. For options designated as cash flow hedges, the time value is excluded from the assessment of hedge effectiveness and recognized in the financial statement line item to which the hedge relates on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in other comprehensive income/(loss) (“OCI”).
+Derivative instruments designated as cash flow hedges must be de-designated as hedges when it is probable the forecasted hedged transaction will not occur in the initially identified time period or within a subsequent two-month time period. Deferred gains and losses in AOCI associated with such derivative instruments are reclassified into OI&E in the period of de-designation. Any subsequent changes in fair value of such derivative instruments are reflected in OI&E unless they are re-designated as hedges of other transactions.
+Net Investment Hedges
+Net investment hedge amounts that are included in the assessment of hedge effectiveness are recorded in OCI as a part of the cumulative translation adjustment. For foreign exchange forward contracts designated as net investment hedges, the forward carry component is excluded from the assessment of hedge effectiveness and recognized in OCI on a straight-line basis over the life of the hedge. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.
+Fair Value Hedges
+Fair value hedge gains and losses related to amounts that are included in the assessment of hedge effectiveness are recognized in earnings along with a corresponding loss or gain related to the change in value of the hedged item in the same line in the Condensed Consolidated Statements of Operations. For foreign exchange forward contracts designated as fair value hedges, the forward carry component is excluded from the assessment of hedge effectiveness and recognized in OI&E on a straight-line basis over the life of the hedge. Amounts excluded from the effectiveness assessment of fair value hedges and recognized in OI&E were gains of $60 million and $142 million for the three- and six-month periods ended March 27, 2021, respectively, and were gains of $126 million and $254 million for the three- and six-month periods ended March 28, 2020, respectively. Changes in the fair value of amounts excluded from the assessment of hedge effectiveness are recognized in OCI.
+Non-Designated Derivatives
+Derivatives that are not designated as hedging instruments are adjusted to fair value through earnings in the financial statement line item to which the derivative relates.
+Apple Inc. | Q2 2021 Form 10-Q | 11
+
+The Company records all derivatives in the Condensed Consolidated Balance Sheets at fair value. The Company’s accounting treatment for these derivative instruments is based on its hedge designation. The following tables show the Company’s derivative instruments at gross fair value as of March 27, 2021 and September 26, 2020 (in millions):
+																	
+	March 27, 2021
+	Fair Value of
+Derivatives Designated
+as Hedge Instruments		Fair Value of
+Derivatives Not Designated
+as Hedge Instruments		Total
+Fair Value
+Derivative assets (1):
+					
+Foreign exchange contracts	$	717 			$	778 			$	1,495 	
+Interest rate contracts	$	923 			$	— 			$	923 	
+					
+Derivative liabilities (2):
+					
+Foreign exchange contracts	$	1,014 			$	702 			$	1,716 	
+																	
+	September 26, 2020
+	Fair Value of
+Derivatives Designated
+as Hedge Instruments		Fair Value of
+Derivatives Not Designated
+as Hedge Instruments		Total
+Fair Value
+Derivative assets (1):
+					
+Foreign exchange contracts	$	749 			$	303 			$	1,052 	
+Interest rate contracts	$	1,557 			$	— 			$	1,557 	
+					
+Derivative liabilities (2):
+					
+Foreign exchange contracts	$	1,561 			$	485 			$	2,046 	
+(1)The fair value of derivative assets is measured using Level 2 fair value inputs and is included in other current assets and other non-current assets in the Condensed Consolidated Balance Sheets.
+(2)The fair value of derivative liabilities is measured using Level 2 fair value inputs and is included in other current liabilities and other non-current liabilities in the Condensed Consolidated Balance Sheets.
+The Company classifies cash flows related to derivative financial instruments as operating activities in its Condensed Consolidated Statements of Cash Flows.
+The following table shows the pre-tax gains and losses of the Company’s derivative and non-derivative instruments designated as cash flow and net investment hedges in OCI and the Condensed Consolidated Statements of Operations for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Gains/(Losses) recognized in OCI – included in effectiveness assessment:
+							
+Cash flow hedges:							
+Foreign exchange contracts	$	338 			$	(462)			$	147 			$	(191)	
+Interest rate contracts	39 			(66)			93 			(66)	
+Total	$	377 			$	(528)			$	240 			$	(257)	
+							
+Net investment hedges:							
+Foreign currency debt	$	— 			$	11 			$	— 			$	35 	
+							
+Gains/(Losses) reclassified from AOCI into net income – included in effectiveness assessment:
+							
+Cash flow hedges:							
+Foreign exchange contracts	$	(885)			$	(817)			$	(571)			$	(326)	
+Interest rate contracts	(2)			(1)			(5)			(3)	
+Total	$	(887)			$	(818)			$	(576)			$	(329)	
+Apple Inc. | Q2 2021 Form 10-Q | 12
+
+Amounts excluded from the effectiveness assessment of the Company’s hedges and recognized in OCI were a gain of $41 million and a loss of $97 million for the three- and six-month periods ended March 27, 2021, respectively, and were gains of $258 million and $169 million for the three- and six-month periods ended March 28, 2020, respectively.
+The following tables show information about the Company’s derivative instruments designated as fair value hedges and the related hedged items for the three- and six-month periods ended March 27, 2021 and March 28, 2020 and as of March 27, 2021 and September 26, 2020 (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Gains/(Losses) on derivative instruments (1):
+							
+Foreign exchange contracts	$	570 			$	436 			$	(183)			$	253 	
+Interest rate contracts	(451)			1,290 			(618)			1,128 	
+Total	$	119 			$	1,726 			$	(801)			$	1,381 	
+							
+Gains/(Losses) related to hedged items (1):
+							
+Marketable securities	$	(569)			$	(436)			$	183 			$	(253)	
+Fixed-rate debt	451 			(1,290)			618 			(1,128)	
+Total	$	(118)			$	(1,726)			$	801 			$	(1,381)	
+											
+	March 27,
+2021		September 26,
+2020
+Carrying amounts of hedged assets/(liabilities):			
+Marketable securities (2)
+	$	16,423 			$	16,270 	
+Fixed-rate debt (3)
+	$	(18,416)			$	(21,033)	
+			
+Cumulative hedging adjustments included in the carrying amounts of hedged items:			
+Marketable securities carrying amount increases/(decreases)	$	403 			$	493 	
+Fixed-rate debt carrying amount (increases)/decreases	$	(923)			$	(1,541)	
+(1)Gains and losses related to fair value hedges are included in OI&E in the Condensed Consolidated Statements of Operations.
+(2)The carrying amounts of marketable securities that are designated as hedged items in fair value hedges are included in current marketable securities and non-current marketable securities in the Condensed Consolidated Balance Sheets
+(3)The carrying amounts of fixed-rate debt instruments that are designated as hedged items in fair value hedges are included in current term debt and non-current term debt in the Condensed Consolidated Balance Sheets.
+The following table shows the notional amounts of the Company’s outstanding derivative instruments and credit risk amounts associated with outstanding or unsettled derivative instruments as of March 27, 2021 and September 26, 2020 (in millions):
+																							
+	March 27, 2021		September 26, 2020
+	Notional
+Amount		Credit Risk
+Amount		Notional
+Amount		Credit Risk
+Amount
+Instruments designated as accounting hedges:							
+Foreign exchange contracts	$	53,312 			$	717 			$	57,410 			$	749 	
+Interest rate contracts	$	17,500 			$	923 			$	20,700 			$	1,557 	
+							
+Instruments not designated as accounting hedges:							
+Foreign exchange contracts	$	104,434 			$	778 			$	88,636 			$	303 	
+Apple Inc. | Q2 2021 Form 10-Q | 13
+
+The notional amounts for outstanding derivative instruments provide one measure of the transaction volume outstanding and do not represent the amount of the Company’s exposure to credit or market loss. The credit risk amounts represent the Company’s gross exposure to potential accounting loss on derivative instruments that are outstanding or unsettled if all counterparties failed to perform according to the terms of the contract, based on then-current currency or interest rates at each respective date. The Company’s exposure to credit loss and market risk will vary over time as currency and interest rates change. Although the table above reflects the notional and credit risk amounts of the Company’s derivative instruments, it does not reflect the gains or losses associated with the exposures and transactions that the instruments are intended to hedge. The amounts ultimately realized upon settlement of these financial instruments, together with the gains and losses on the underlying exposures, will depend on actual market conditions during the remaining life of the instruments.
+The Company generally enters into master netting arrangements, which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty. To further limit credit risk, the Company generally enters into collateral security arrangements that provide for collateral to be received or posted when the net fair value of certain financial instruments fluctuates from contractually established thresholds. The Company presents its derivative assets and derivative liabilities at their gross fair values in its Condensed Consolidated Balance Sheets. As of March 27, 2021 and September 26, 2020, the net cash collateral received by the Company related to derivative instruments under its collateral security arrangements was $935 million and $875 million, respectively. The Company includes gross collateral posted and received in other current assets and other current liabilities in the Condensed Consolidated Balance Sheets, respectively.
+Under master netting arrangements with the respective counterparties to the Company’s derivative contracts, the Company is allowed to net settle transactions with a single net amount payable by one party to the other. As of March 27, 2021 and September 26, 2020, the potential effects of these rights of set-off associated with the Company’s derivative contracts, including the effects of collateral, would be a reduction to both derivative assets and derivative liabilities of $2.4 billion and $2.8 billion, respectively, resulting in net derivative liabilities of $233 million and $312 million, respectively.
+Accounts Receivable
+Trade Receivables
+The Company has considerable trade receivables outstanding with its third-party cellular network carriers, wholesalers, retailers, resellers, small and mid-sized businesses and education, enterprise and government customers. The Company generally does not require collateral from its customers; however, the Company will require collateral or third-party credit support in certain instances to limit credit risk. In addition, when possible, the Company attempts to limit credit risk on trade receivables with credit insurance for certain customers or by requiring third-party financing, loans or leases to support credit exposure. These credit-financing arrangements are directly between the third-party financing company and the end customer. As such, the Company generally does not assume any recourse or credit risk sharing related to any of these arrangements.
+As of March 27, 2021, the Company had one customer that represented 10% or more of total trade receivables, which accounted for 13%. As of September 26, 2020, the Company had no customers that individually represented 10% or more of total trade receivables. The Company’s cellular network carriers accounted for 35% of total trade receivables as of March 27, 2021.
+Vendor Non-Trade Receivables
+The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture sub-assemblies or assemble final products for the Company. The Company purchases these components directly from suppliers. As of March 27, 2021, the Company had one vendor that represented 10% or more of total vendor non-trade receivables, which accounted for 65%. As of September 26, 2020, the Company had two vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 57%, and 11%.
+Apple Inc. | Q2 2021 Form 10-Q | 14
+
+Note 4 – Condensed Consolidated Financial Statement Details
+The following tables show the Company’s condensed consolidated financial statement details as of March 27, 2021 and September 26, 2020 (in millions):
+Property, Plant and Equipment, Net
+											
+	March 27,
+2021		September 26,
+2020
+Land and buildings	$	19,000 			$	17,952 	
+Machinery, equipment and internal-use software	77,841 			75,291 	
+Leasehold improvements	10,439 			10,283 	
+Gross property, plant and equipment	107,280 			103,526 	
+Accumulated depreciation and amortization	(69,465)			(66,760)	
+Total property, plant and equipment, net	$	37,815 			$	36,766 	
+Other Non-Current Liabilities
+											
+	March 27,
+2021		September 26,
+2020
+Long-term taxes payable	$	25,162 			$	28,170 	
+Other non-current liabilities	27,791 			26,320 	
+Total other non-current liabilities	$	52,953 			$	54,490 	
+Other Income/(Expense), Net
+The following table shows the detail of OI&E for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Interest and dividend income	$	718 			$	1,049 			$	1,465 			$	2,094 	
+Interest expense	(670)			(757)			(1,308)			(1,542)	
+Other income/(expense), net	460 			(10)			396 			79 	
+Total other income/(expense), net	$	508 			$	282 			$	553 			$	631 	
+Note 5 – Income Taxes
+Uncertain Tax Positions
+As of March 27, 2021, the total amount of gross unrecognized tax benefits was $16.9 billion, of which $8.3 billion, if recognized, would impact the Company’s effective tax rate. The Company had accrued $1.6 billion of gross interest and penalties related to income tax matters as of March 27, 2021.
+The Company is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. The U.S. Internal Revenue Service concluded its review of the years 2013 through 2015 in 2018, and all years before 2016 are closed. Tax years after 2014 remain open in certain major foreign jurisdictions and are subject to examination by the taxing authorities. The Company believes that an adequate provision has been made for any adjustments that may result from tax examinations. However, the outcome of tax audits cannot be predicted with certainty. If any issues addressed in the Company’s tax audits are resolved in a manner inconsistent with its expectations, the Company could be required to adjust its provision for income taxes in the period such resolution occurs. Although the timing of resolution and/or closure of audits is not certain, the Company believes it is reasonably possible that its gross unrecognized tax benefits could decrease in the next 12 months by as much as $3.1 billion.
+Apple Inc. | Q2 2021 Form 10-Q | 15
+
+European Commission State Aid Decision
+On August 30, 2016, the European Commission announced its decision that Ireland granted state aid to the Company by providing tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (the “State Aid Decision”). The State Aid Decision ordered Ireland to calculate and recover additional taxes from the Company for the period June 2003 through December 2014. Irish legislative changes, effective as of January 2015, eliminated the application of the tax opinions from that date forward. The recovery amount was calculated to be €13.1 billion, plus interest of €1.2 billion. The Company and Ireland appealed the State Aid Decision to the General Court of the Court of Justice of the European Union (the “General Court”). On July 15, 2020, the General Court annulled the State Aid Decision. On September 25, 2020, the European Commission appealed the General Court’s decision to the European Court of Justice. The Company believes that any incremental Irish corporate income taxes potentially due related to the State Aid Decision would be creditable against U.S. taxes, subject to any foreign tax credit limitations in the U.S. Tax Cuts and Jobs Act of 2017.
+On an annual basis, the Company may request approval from the Irish Minister for Finance to reduce the recovery amount for certain taxes paid to other countries. As of March 27, 2021, the adjusted recovery amount was €12.9 billion, excluding interest. The adjusted recovery amount plus interest is funded into escrow, where it will remain restricted from general use pending the conclusion of all legal proceedings. Refer to the Cash, Cash Equivalents and Marketable Securities section of Note 3, “Financial Instruments” for more information.
+Note 6 – Debt
+Commercial Paper and Repurchase Agreement
+The Company issues unsecured short-term promissory notes (“Commercial Paper”) pursuant to a commercial paper program. The Company uses net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of both March 27, 2021 and September 26, 2020, the Company had $5.0 billion of Commercial Paper outstanding, with maturities generally less than nine months. The weighted-average interest rate of the Company’s Commercial Paper was 0.06% and 0.62% as of March 27, 2021 and September 26, 2020, respectively. The following table provides a summary of cash flows associated with the issuance and maturities of Commercial Paper for the six months ended March 27, 2021 and March 28, 2020 (in millions):
+											
+	Six Months Ended
+	March 27,
+2021		March 28,
+2020
+Maturities 90 days or less:			
+Proceeds from commercial paper, net	$	2,008 			$	1,377 	
+			
+Maturities greater than 90 days:			
+Proceeds from commercial paper	1,368 			4,797 	
+Repayments of commercial paper	(3,354)			(4,656)	
+Proceeds from/(Repayments of) commercial paper, net	(1,986)			141 	
+			
+Total proceeds from commercial paper, net	$	22 			$	1,518 	
+In the second quarter of 2020, the Company entered into an agreement to sell certain of its marketable securities with a promise to repurchase the securities at a specified time and amount (“Repo”). Due to the Company’s continuing involvement with the marketable securities, the Company accounted for the Repo as a collateralized borrowing. As of September 26, 2020, the Repo had been settled.
+Apple Inc. | Q2 2021 Form 10-Q | 16
+
+Term Debt
+As of March 27, 2021, the Company had outstanding floating- and fixed-rate notes with varying maturities for an aggregate principal amount of $116.0 billion (collectively the “Notes”). The Notes are senior unsecured obligations and interest is payable in arrears. The following table provides a summary of the Company’s term debt as of March 27, 2021 and September 26, 2020:
+																													
+	
+Maturities
+(calendar year)
+		March 27, 2021		September 26, 2020
+	
+Amount
+(in millions)
+		Effective
+Interest Rate		
+Amount
+(in millions)
+		Effective
+Interest Rate
+2013 – 2020 debt issuances:									
+Floating-rate notes	
+2022
+		$	1,750 			
+0.55% – 0.69%
+		$	2,250 			
+0.60% – 1.39%
+Fixed-rate 0.000% – 4.650% notes
+	
+2021 – 2060
+		100,255 			
+0.03% – 4.78%
+		103,828 			
+0.03% – 4.78%
+									
+2021 debt issuance:									
+Fixed-rate 0.700% – 2.800% notes
+	
+2026 – 2061
+		14,000 			
+0.75% – 2.81%
+		— 			— 	%
+Total term debt			116,005 					106,078 			
+									
+Unamortized premium/(discount) and issuance costs, net
+			(371)					(314)			
+Hedge accounting fair value adjustments			1,011 					1,676 			
+Less: Current portion of term debt			(8,003)					(8,773)			
+Total non-current portion of term debt			$	108,642 					$	98,667 			
+To manage interest rate risk on certain of its U.S. dollar–denominated fixed- or floating-rate notes, the Company has entered into interest rate swaps to effectively convert the fixed interest rates to floating interest rates or the floating interest rates to fixed interest rates on a portion of these notes. Additionally, to manage foreign currency risk on certain of its foreign currency–denominated notes, the Company has entered into foreign currency swaps to effectively convert these notes to U.S. dollar–denominated notes.
+The effective interest rates for the Notes include the interest on the Notes, amortization of the discount or premium and, if applicable, adjustments related to hedging. The Company recognized $657 million and $1.3 billion of interest cost on its term debt for the three- and six-month periods ended March 27, 2021, respectively. The Company recognized $725 million and $1.5 billion of interest cost on its term debt for the three- and six-month periods ended March 28, 2020, respectively.
+As of March 27, 2021 and September 26, 2020, the fair value of the Company’s Notes, based on Level 2 inputs, was $121.2 billion and $117.1 billion, respectively.
+Note 7 – Shareholders’ Equity
+Share Repurchase Program
+As of March 27, 2021, the Company was authorized to purchase up to $225 billion of the Company’s common stock under a share repurchase program (the “Program”). During the six months ended March 27, 2021, the Company repurchased 347 million shares of its common stock for $43.0 billion, bringing the total utilization under the Program to $211.6 billion. On April 28, 2021, the Company announced the Board of Directors increased the Program authorization by $90 billion. The Program does not obligate the Company to acquire any specific number of shares. Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+Apple Inc. | Q2 2021 Form 10-Q | 17
+
+Note 8 – Comprehensive Income
+The Company’s OCI consists of foreign currency translation adjustments from those subsidiaries not using the U.S. dollar as their functional currency, net deferred gains and losses on certain derivative instruments accounted for as hedges, and unrealized gains and losses on marketable debt securities classified as available-for-sale.
+The following table shows the pre-tax amounts reclassified from AOCI into the Condensed Consolidated Statements of Operations, and the associated financial statement line items, for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (in millions):
+																																
+				Three Months Ended		Six Months Ended
+Comprehensive Income Components		Financial Statement Line Items		March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Unrealized (gains)/losses on derivative instruments:
+										
+Foreign exchange contracts		Total net sales		$	314 			$	34 			$	418 			$	(63)	
+		Total cost of sales		406 			12 			651 			(159)	
+		Other income/(expense), net		193 			771 			(435)			548 	
+Interest rate contracts		Other income/(expense), net		2 			1 			5 			3 	
+				915 			818 			639 			329 	
+Unrealized (gains)/losses on marketable debt securities
+		Other income/(expense), net		(96)			37 			(214)			24 	
+Total amounts reclassified from AOCI		$	819 			$	855 			$	425 			$	353 	
+The following table shows the changes in AOCI by component for the six months ended March 27, 2021 (in millions):
+																							
+	Cumulative Foreign
+Currency Translation		Unrealized Gains/Losses
+on Derivative Instruments		Unrealized Gains/Losses
+on Marketable Debt Securities		Total
+Balances as of September 26, 2020	$	(1,375)			$	(877)			$	1,846 			$	(406)	
+Other comprehensive income/(loss) before reclassifications
+	471 			111 			(1,067)			(485)	
+Amounts reclassified from AOCI	— 			639 			(214)			425 	
+Tax effect	— 			(146)			326 			180 	
+Other comprehensive income/(loss)	471 			604 			(955)			120 	
+Balances as of March 27, 2021	$	(904)			$	(273)			$	891 			$	(286)	
+Note 9 – Benefit Plans
+Stock Plans
+The Company had 718 million shares reserved for future issuance under its stock plans as of March 27, 2021. RSUs granted under the Company’s stock plans generally vest over four years, based on continued employment, and are settled upon vesting in shares of the Company’s common stock on a one-for-one basis. RSUs granted under the Company’s stock plans reduce the number of shares available for grant under the plans by a factor of two times the number of RSUs granted. RSUs canceled and shares withheld to satisfy tax withholding obligations increase the number of shares available for grant under the plans utilizing a factor of two times the number of RSUs canceled or shares withheld.
+Rule 10b5-1 Trading Plans
+During the three months ended March 27, 2021, Section 16 officers Katherine L. Adams, Timothy D. Cook, Chris Kondo, Luca Maestri, Deirdre O’Brien and Jeffrey Williams had equity trading plans in place in accordance with Rule 10b5-1(c)(1) under the Exchange Act. An equity trading plan is a written document that pre-establishes the amounts, prices and dates (or formula for determining the amounts, prices and dates) of future purchases or sales of the Company’s stock, including shares acquired under the Company’s employee and director equity plans.
+Apple Inc. | Q2 2021 Form 10-Q | 18
+
+Restricted Stock Units
+A summary of the Company’s RSU activity and related information for the six months ended March 27, 2021 is as follows:
+																	
+	
+Number of
+RSUs
+(in thousands)
+		Weighted-Average
+Grant Date Fair
+Value Per RSU		
+Aggregate
+Fair Value
+(in millions)
+Balance as of September 26, 2020	310,778 			$	51.58 			
+RSUs granted	79,068 			$	113.39 			
+RSUs vested	(75,295)			$	45.83 			
+RSUs canceled	(5,918)			$	63.67 			
+Balance as of March 27, 2021	308,633 			$	68.58 			$	37,409 	
+The fair value as of the respective vesting dates of RSUs was $867 million and $9.4 billion for the three- and six-month periods ended March 27, 2021, respectively, and was $558 million and $4.8 billion for the three- and six-month periods ended March 28, 2020, respectively.
+Share-Based Compensation
+The following table shows share-based compensation expense and the related income tax benefit included in the Condensed Consolidated Statements of Operations for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Share-based compensation expense	$	1,981 			$	1,697 			$	4,001 			$	3,407 	
+Income tax benefit related to share-based compensation expense
+	$	(575)			$	(444)			$	(2,199)			$	(1,202)	
+As of March 27, 2021, the total unrecognized compensation cost related to outstanding RSUs and stock options was $16.7 billion, which the Company expects to recognize over a weighted-average period of 2.8 years.
+Note 10 – Commitments and Contingencies
+Accrued Warranty and Guarantees
+The following table shows changes in the Company’s accrued warranties and related costs for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Beginning accrued warranty and related costs	$	4,124 			$	3,873 			$	3,354 			$	3,570 	
+Cost of warranty claims	(649)			(689)			(1,372)			(1,604)	
+Accruals for product warranty	309 			739 			1,802 			1,957 	
+Ending accrued warranty and related costs	$	3,784 			$	3,923 			$	3,784 			$	3,923 	
+The Company offers an iPhone Upgrade Program, which is available to customers who purchase a qualifying iPhone in the U.S., the U.K. and China mainland. The iPhone Upgrade Program provides customers the right to trade in that iPhone for a specified amount when purchasing a new iPhone, provided certain conditions are met. The Company accounts for the trade-in right as a guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the guarantee liability recognized within net sales.
+Concentrations in the Available Sources of Supply of Materials and Product
+Although most components essential to the Company’s business are generally available from multiple sources, certain components are currently obtained from single or limited sources. The Company also competes for various components with other participants in the markets for smartphones, personal computers, tablets and other electronic devices. Therefore, many components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant commodity pricing fluctuations.
+Apple Inc. | Q2 2021 Form 10-Q | 19
+
+The Company uses some custom components that are not commonly used by its competitors, and new products introduced by the Company often utilize custom components available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company’s requirements.
+The Company has entered into agreements for the supply of many components; however, there can be no guarantee that the Company will be able to extend or renew these agreements on similar terms, or at all.
+Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland.
+Unconditional Purchase Obligations
+The Company has entered into certain off–balance sheet commitments that require the future purchase of goods or services (“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of payments for content creation, Internet and telecommunications services and supplier arrangements. As of March 27, 2021, the Company’s total future payments under noncancelable unconditional purchase obligations having a remaining term in excess of one year were $8.2 billion.
+Contingencies
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully resolved. The outcome of litigation is inherently uncertain. When a loss related to a legal proceeding or claim is probable and reasonably estimable, the Company accrues its best estimate for the ultimate resolution of the matter. If one or more legal matters were resolved against the Company in a reporting period for amounts above management’s expectations, the Company’s financial condition and operating results for that reporting period could be materially adversely affected. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims, except for the following matters:
+VirnetX
+VirnetX, Inc. (“VirnetX”) filed a lawsuit against the Company alleging that certain of the Company’s products infringe on patents owned by VirnetX. On April 11, 2018, a jury returned a verdict against the Company in the U.S. District Court for the Eastern District of Texas (the “Eastern Texas District Court”). The Company appealed the verdict to the U.S. Court of Appeals for the Federal Circuit, which remanded the case back to the Eastern Texas District Court, where a re-trial was held in October 2020. The jury returned a verdict against the Company and awarded damages of $503 million, which the Company has appealed. The Company has challenged the validity of the patents at issue in the re-trial at the U.S. Patent and Trademark Office (the “PTO”), and the PTO has declared the patents invalid, subject to further appeal by VirnetX.
+iOS Performance Management Cases
+On April 5, 2018, several U.S. federal actions alleging violation of consumer protection laws, fraud, computer intrusion and other causes of action related to the Company’s performance management feature used in its iPhone operating systems, introduced to certain iPhones in iOS updates 10.2.1 and 11.2, were consolidated through a Multidistrict Litigation process into a single action in the U.S. District Court for the Northern District of California (the “Northern California District Court”). On February 28, 2020, the parties in the Multidistrict Litigation reached a settlement to resolve the U.S. federal and California state class actions. On March 18, 2021, the Northern California District Court granted final approval of the Multidistrict Litigation settlement, which will result in an aggregate payment of $310 million to settle all claims. The Company continues to believe that its iPhones were not defective, that the performance management feature introduced with iOS updates 10.2.1 and 11.2 was intended to, and did, improve customers’ user experience, and that the Company did not make any misleading statements or fail to disclose any material information.
+French Competition Authority
+On March 16, 2020, the French Competition Authority (“FCA”) announced its decision that aspects of the Company’s sales and distribution practices in France violate French competition law and issued a fine of €1.1 billion. The Company strongly disagrees with the FCA’s decision and has appealed.
+Apple Inc. | Q2 2021 Form 10-Q | 20
+
+Optis
+Optis Wireless Technology, LLC and related entities (“Optis”) filed a lawsuit in the U.S. District Court for the Eastern District of Texas against the Company alleging that certain of the Company’s products infringe on patents owned by Optis. On August 11, 2020, a jury returned a verdict against the Company and awarded damages of $506 million. In post-trial proceedings, the damages portion of the verdict was set aside, and the case remains pending further proceedings.
+Note 11 – Segment Information and Geographic Data
+The Company reports segment information based on the “management” approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company’s reportable segments.
+The Company manages its business primarily on a geographic basis. The Company’s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company’s customers and distribution partners and the unique market dynamics of each geographic region. The accounting policies of the various segments are the same as those described in Note 1, “Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in Part II, Item 8 of the 2020 Form 10-K.
+The Company evaluates the performance of its reportable segments based on net sales and operating income. Net sales for geographic segments are generally based on the location of customers and sales through the Company’s retail stores located in those geographic locations. Operating income for each segment includes net sales to third parties, related cost of sales and operating expenses directly attributable to the segment. Advertising expenses are generally included in the geographic segment in which the expenditures are incurred. Operating income for each segment excludes other income and expense and certain expenses managed outside the reportable segments. Costs excluded from segment operating income include various corporate expenses such as research and development, corporate marketing expenses, certain share-based compensation expenses, income taxes, various nonrecurring charges and other separately managed general and administrative costs. The Company does not include intercompany transfers between segments for management reporting purposes.
+The following table shows information by reportable segment for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Americas:							
+Net sales	$	34,306 			$	25,473 			$	80,616 			$	66,840 	
+Operating income	$	12,050 			$	7,261 			$	27,835 			$	20,353 	
+							
+Europe:							
+Net sales	$	22,264 			$	14,294 			$	49,570 			$	37,567 	
+Operating income	$	8,265 			$	4,528 			$	17,854 			$	12,247 	
+							
+Greater China:							
+Net sales	$	17,728 			$	9,455 			$	39,041 			$	23,033 	
+Operating income	$	7,758 			$	3,758 			$	16,288 			$	9,121 	
+							
+Japan:							
+Net sales	$	7,742 			$	5,206 			$	16,027 			$	11,429 	
+Operating income	$	3,428 			$	2,236 			$	6,931 			$	5,014 	
+							
+Rest of Asia Pacific:							
+Net sales	$	7,544 			$	3,885 			$	15,769 			$	11,263 	
+Operating income	$	2,736 			$	1,290 			$	5,689 			$	4,021 	
+Apple Inc. | Q2 2021 Form 10-Q | 21
+
+A reconciliation of the Company’s segment operating income to the Condensed Consolidated Statements of Operations for the three- and six-month periods ended March 27, 2021 and March 28, 2020 is as follows (in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Segment operating income	$	34,237 			$	19,073 			$	74,597 			$	50,756 	
+Research and development expense	(5,262)			(4,565)			(10,425)			(9,016)	
+Other corporate expenses, net	(1,472)			(1,655)			(3,135)			(3,318)	
+Total operating income	$	27,503 			$	12,853 			$	61,037 			$	38,422 	
+Apple Inc. | Q2 2021 Form 10-Q | 22
+
+Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+This section and other parts of this Quarterly Report on Form 10-Q (“Form 10-Q”) contain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-Q regarding the potential future impact of the COVID-19 pandemic on the Company’s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of the Company’s Annual Report on Form 10-K for the year ended September 26, 2020 (the “2020 Form 10-K”) under the heading “Risk Factors.” The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.
+The following discussion should be read in conjunction with the 2020 Form 10-K filed with the U.S. Securities and Exchange Commission (the “SEC”) and the condensed consolidated financial statements and accompanying notes included in Part I, Item 1 of this Form 10-Q.
+Available Information
+The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, information on corporate governance and details related to the Company’s annual meeting of shareholders. The information contained on the websites referenced in this Form 10-Q is not incorporated by reference into this filing. Further, the Company’s references to website URLs are intended to be inactive textual references only.
+Quarterly Highlights
+Business Seasonality and Product Introductions
+The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.
+COVID-19 Update
+The COVID-19 pandemic has prompted governments and businesses to take unprecedented measures, such as restrictions on travel and business operations, temporary closures of businesses, and quarantines and shelter-in-place orders. The COVID-19 pandemic has significantly curtailed global economic activity and caused significant volatility and disruption in global financial markets. The COVID-19 pandemic and the measures taken by many countries in response have affected and could in the future materially impact the Company’s business, results of operations, financial condition and stock price.
+During the second quarter of 2021, aspects of the Company’s business continued to be affected by the COVID-19 pandemic, with many of the Company’s retail stores, as well as channel partner points of sale, temporarily closed at various times, and the vast majority of the Company’s employees working remotely. The Company has reopened some of its offices and retail stores, subject to operating restrictions to protect public health and the health and safety of employees and customers, and it continues to work on safely reopening the remainder of its offices and retail stores, subject to local rules and regulations.
+The full extent of the future impact of the COVID-19 pandemic on the Company’s operational and financial performance is currently uncertain and will depend on many factors outside the Company’s control, including, without limitation, the timing, extent, trajectory and duration of the pandemic; the availability, distribution and effectiveness of vaccines; the imposition of protective public safety measures; and the impact of the pandemic on the global economy and demand for consumer products. Refer to Part I, Item 1A of the 2020 Form 10-K under the heading “Risk Factors,” for more information.
+Apple Inc. | Q2 2021 Form 10-Q | 23
+
+The Company believes its existing balances of cash, cash equivalents and marketable securities, along with commercial paper and other short-term liquidity arrangements, will be sufficient to satisfy its working capital needs, capital asset purchases, dividends, share repurchases, debt repayments and other liquidity requirements associated with its existing operations.
+Second Quarter Fiscal 2021 Highlights
+Total net sales increased 54% or $31.3 billion during the second quarter of 2021 compared to the same quarter in 2020, driven by higher net sales in all Products and Services categories in each of the Company’s reportable segments. The COVID-19 pandemic had an unfavorable impact on the Company’s net sales during the second quarter of 2020.
+The Company repurchased $19.0 billion of its common stock and paid dividends and dividend equivalents of $3.4 billion during the second quarter of 2021.
+In April 2021, the Company announced the following new products and services, all of which are expected to be available in the spring of 2021:
+•iMac®, powered by the Apple M1 chip;
+•iPad Pro®, powered by the Apple M1 chip;
+•Apple TV 4K®, with a redesigned Siri Remote®;
+•AirTag™, an accessory that helps keep track of items using the Find My™ network; and
+•Apple Podcasts® Subscriptions.
+Products and Services Performance
+The following table shows net sales by category for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (dollars in millions):
+																																			
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		Change		March 27,
+2021		March 28,
+2020		Change
+Net sales by category:											
+iPhone (1)
+	$	47,938 			$	28,962 			66 	%		$	113,535 			$	84,919 			34 	%
+Mac (1)
+	9,102 			5,351 			70 	%		17,777 			12,511 			42 	%
+iPad (1)
+	7,807 			4,368 			79 	%		16,242 			10,345 			57 	%
+Wearables, Home and Accessories (1)(2)
+	7,836 			6,284 			25 	%		20,807 			16,294 			28 	%
+Services (3)
+	16,901 			13,348 			27 	%		32,662 			26,063 			25 	%
+Total net sales	$	89,584 			$	58,313 			54 	%		$	201,023 			$	150,132 			34 	%
+(1)Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.
+(2)Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and Apple-branded and third-party accessories.
+(3)Services net sales include sales from the Company’s advertising, AppleCare, digital content and other services. Services net sales also include amortization of the deferred value of Maps, Siri, and free iCloud storage and Apple TV+ services, which are bundled in the sales price of certain products.
+iPhone
+iPhone net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales from the successful launch of the Company’s new iPhone models in the first quarter of 2021 and a favorable mix of iPhone sales.
+Mac
+Mac net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of MacBook Air® and MacBook Pro®.
+iPad
+iPad net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of iPad Air® and the 10-inch version of iPad.
+Apple Inc. | Q2 2021 Form 10-Q | 24
+
+Wearables, Home and Accessories
+Wearables, Home and Accessories net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of Apple Watch and accessories.
+Services
+Services net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales from the App Store, advertising and cloud services.
+Segment Operating Performance
+The Company manages its business primarily on a geographic basis. The Company’s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company’s customers and distribution partners and the unique market dynamics of each geographic region. Further information regarding the Company’s reportable segments can be found in Part I, Item 1 of this Form 10-Q in the Notes to Condensed Consolidated Financial Statements in Note 11, “Segment Information and Geographic Data.”
+The following table shows net sales by reportable segment for the three- and six-month periods ended March 27, 2021 and March 28, 2020 (dollars in millions):
+																																			
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		Change		March 27,
+2021		March 28,
+2020		Change
+Net sales by reportable segment:											
+Americas	$	34,306 			$	25,473 			35 	%		$	80,616 			$	66,840 			21 	%
+Europe	22,264 			14,294 			56 	%		49,570 			37,567 			32 	%
+Greater China	17,728 			9,455 			87 	%		39,041 			23,033 			70 	%
+Japan	7,742 			5,206 			49 	%		16,027 			11,429 			40 	%
+Rest of Asia Pacific	7,544 			3,885 			94 	%		15,769 			11,263 			40 	%
+Total net sales	$	89,584 			$	58,313 			54 	%		$	201,023 			$	150,132 			34 	%
+Americas
+Americas net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of iPhone, Services and Mac.
+Europe
+Europe net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of iPhone, iPad and Mac.
+Greater China
+Greater China net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of iPhone and iPad. The strength of the Chinese renminbi relative to the U.S. dollar had a favorable impact on Greater China net sales during the second quarter and first six months of 2021.
+Japan
+Japan net sales increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher net sales of iPhone, Services and iPad. The strength of the Japanese yen relative to the U.S. dollar had a favorable impact on Japan net sales during the second quarter and first six months of 2021.
+Apple Inc. | Q2 2021 Form 10-Q | 25
+
+Rest of Asia Pacific
+Rest of Asia Pacific net sales increased during the second quarter of 2021 compared to the second quarter of 2020 due primarily to higher net sales of iPhone, iPad and Mac. Year-over-year Rest of Asia Pacific net sales increased during the first six months of 2021 due primarily to higher net sales of iPhone, iPad and Wearables, Home and Accessories. The movement of foreign currencies in the Rest of Asia Pacific relative to the U.S. dollar had a net favorable impact on net sales during the second quarter and first six months of 2021.
+Gross Margin
+Products and Services gross margin and gross margin percentage for the three- and six-month periods ended March 27, 2021 and March 28, 2020 were as follows (dollars in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Gross margin:							
+Products	$	26,236 			$	13,644 			$	59,784 			$	40,673 	
+Services	11,843 			8,726 			22,623 			16,914 	
+Total gross margin	$	38,079 			$	22,370 			$	82,407 			$	57,587 	
+																							
+Gross margin percentage:							
+Products	36.1 	%		30.3 	%		35.5 	%		32.8 	%
+Services	70.1 	%		65.4 	%		69.3 	%		64.9 	%
+Total gross margin percentage	42.5 	%		38.4 	%		41.0 	%		38.4 	%
+Products Gross Margin
+Products gross margin increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher Products volume, a different Products mix and the strength in foreign currencies relative to the U.S. dollar.
+Year-over-year Products gross margin percentage increased during the second quarter and first six months of 2021 due primarily to higher leverage, a different Products mix and the strength in foreign currencies relative to the U.S. dollar.
+Services Gross Margin
+Services gross margin increased during the second quarter and first six months of 2021 compared to the same periods in 2020 due primarily to higher Services net sales, a different Services mix and the strength in foreign currencies relative to the U.S. dollar.
+Year-over-year Services gross margin percentage increased during the second quarter and first six months of 2021 due primarily to a different Services mix, higher leverage and the strength in foreign currencies relative to the U.S. dollar.
+The Company’s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of the 2020 Form 10-K under the heading “Risk Factors.” As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure.
+Apple Inc. | Q2 2021 Form 10-Q | 26
+
+Operating Expenses
+Operating expenses for the three- and six-month periods ended March 27, 2021 and March 28, 2020 were as follows (dollars in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Research and development	$	5,262 			$	4,565 			$	10,425 			$	9,016 	
+Percentage of total net sales	6 	%		8 	%		5 	%		6 	%
+Selling, general and administrative	$	5,314 			$	4,952 			$	10,945 			$	10,149 	
+Percentage of total net sales	6 	%		8 	%		5 	%		7 	%
+Total operating expenses	$	10,576 			$	9,517 			$	21,370 			$	19,165 	
+Percentage of total net sales	12 	%		16 	%		11 	%		13 	%
+Research and Development
+The growth in research and development (“R&D”) expense during the second quarter and first six months of 2021 compared to the same periods in 2020 was driven primarily by increases in headcount-related expenses. The Company continues to believe that focused investments in R&D are critical to its future growth and competitive position in the marketplace, and to the development of new and updated products and services that are central to the Company’s core business strategy.
+Selling, General and Administrative
+The growth in selling, general and administrative expense during the second quarter and first six months of 2021 compared to the same periods in 2020 was driven primarily by increases in headcount-related expenses and higher variable selling expenses.
+Other Income/(Expense), Net
+Other income/(expense), net (“OI&E”) for the three- and six-month periods ended March 27, 2021 and March 28, 2020 was as follows (dollars in millions):
+																																			
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		Change		March 27,
+2021		March 28,
+2020		Change
+Interest and dividend income	$	718 			$	1,049 					$	1,465 			$	2,094 			
+Interest expense	(670)			(757)					(1,308)			(1,542)			
+Other income/(expense), net	460 			(10)					396 			79 			
+Total other income/(expense), net	$	508 			$	282 			80 	%		$	553 			$	631 			(12)	%
+OI&E increased during the second quarter of 2021 compared to the second quarter of 2020 due primarily to impairments of marketable and non-marketable securities in 2020 and a favorable carrying value adjustment of non-marketable securities in 2021, partially offset by lower interest income in 2021.
+OI&E decreased during the first six months of 2021 compared to the same period in 2020 due primarily to lower interest income in 2021, partially offset by impairments of marketable and non-marketable securities in 2020 and lower interest expense in 2021.
+The weighted-average interest rate earned by the Company on its cash, cash equivalents and marketable securities was 1.37% and 2.01% in the second quarter of 2021 and 2020, respectively, and 1.43% and 2.05% in the first six months of 2021 and 2020, respectively.
+Apple Inc. | Q2 2021 Form 10-Q | 27
+
+Provision for Income Taxes
+Provision for income taxes, effective tax rate and statutory federal income tax rate for the three- and six-month periods ended March 27, 2021 and March 28, 2020 were as follows (dollars in millions):
+																							
+	Three Months Ended		Six Months Ended
+	March 27,
+2021		March 28,
+2020		March 27,
+2021		March 28,
+2020
+Provision for income taxes	$	4,381 			$	1,886 			$	9,205 			$	5,568 	
+Effective tax rate	15.6 	%		14.4 	%		14.9 	%		14.3 	%
+Statutory federal income tax rate	21 	%		21 	%		21 	%		21 	%
+The Company’s effective tax rate for the second quarter of 2021 was lower than the statutory federal income tax rate due primarily to lower taxes on foreign earnings. The Company’s effective tax rate for the first six months of 2021 was lower than the statutory federal income tax rate due primarily to lower taxes on foreign earnings and tax benefits from share-based compensation.
+The Company’s effective tax rate for the second quarter of 2021 was higher compared to the second quarter of 2020 due primarily to higher taxes on foreign earnings and a lower impact of the U.S. federal R&D tax credit. The Company’s effective tax rate for the first six months of 2021 was higher compared to the same period in 2020 due primarily to higher taxes on foreign earnings, partially offset by higher tax benefits from share-based compensation.
+Liquidity and Capital Resources
+The following tables present selected financial information and statistics as of March 27, 2021 and September 26, 2020 and for the first six months of 2021 and 2020 (in millions):
+											
+	March 27,
+2021		September 26,
+2020
+Cash, cash equivalents and marketable securities (1)
+	$	204,373 			$	191,830 	
+Property, plant and equipment, net	$	37,815 			$	36,766 	
+Commercial paper	$	5,000 			$	4,996 	
+Total term debt	$	116,645 			$	107,440 	
+Working capital	$	15,080 			$	38,321 	
+											
+	Six Months Ended
+	March 27,
+2021		March 28,
+2020
+Cash generated by operating activities	$	62,744 			$	43,827 	
+Cash used in investing activities	$	(18,952)			$	(4,655)	
+Cash used in financing activities	$	(43,575)			$	(46,347)	
+(1)As of March 27, 2021 and September 26, 2020, total marketable securities included $19.0 billion and $18.6 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes” in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Form 10-Q) and other agreements.
+The Company believes its existing balances of cash, cash equivalents and marketable securities, along with commercial paper and other short-term liquidity arrangements, will be sufficient to satisfy its working capital needs, capital asset purchases, dividends, share repurchases, debt repayments and other liquidity requirements associated with its existing operations over the next 12 months.
+In connection with the State Aid Decision, as of March 27, 2021, the adjusted recovery amount of €12.9 billion plus interest of €1.2 billion was funded into escrow, where it will remain restricted from general use pending the conclusion of all legal proceedings. Further information regarding the State Aid Decision can be found in Part I, Item 1 of this Form 10-Q in the Notes to Condensed Consolidated Financial Statements in Note 5, “Income Taxes.”
+The Company’s marketable securities investment portfolio is primarily invested in highly rated securities, with the primary objective of minimizing the potential risk of principal loss. The Company’s investment policy generally requires securities to be investment grade and limits the amount of credit exposure to any one issuer.
+Apple Inc. | Q2 2021 Form 10-Q | 28
+
+During the six months ended March 27, 2021, cash generated by operating activities of $62.7 billion was a result of $52.4 billion of net income, non-cash adjustments to net income of $8.8 billion and an increase in the net change in operating assets and liabilities of $1.6 billion. Cash used in investing activities of $19.0 billion during the six months ended March 27, 2021 consisted primarily of cash used for purchases of marketable securities, net of maturities and sales, of $13.2 billion and cash used to acquire property, plant and equipment of $5.8 billion. Cash used in financing activities of $43.6 billion during the six months ended March 27, 2021 consisted primarily of cash used to repurchase common stock of $43.3 billion, cash used to pay dividends and dividend equivalents of $7.1 billion and cash used to repay or redeem term debt of $4.5 billion, partially offset by net proceeds from issuance of term debt of $13.9 billion.
+During the six months ended March 28, 2020, cash generated by operating activities of $43.8 billion was a result of $33.5 billion of net income, non-cash adjustments to net income of $8.1 billion and an increase in the net change in operating assets and liabilities of $2.2 billion. Cash used in investing activities of $4.7 billion during the six months ended March 28, 2020 consisted primarily of cash used to acquire property, plant and equipment of $4.0 billion, partially offset by proceeds from maturities and sales of marketable securities, net of purchases, of $1.0 billion. Cash used in financing activities of $46.3 billion during the six months ended March 28, 2020 consisted primarily of cash used to repurchase common stock of $39.3 billion, cash used to pay dividends and dividend equivalents of $6.9 billion and cash used to repay or redeem term debt of $5.3 billion, partially offset by net proceeds from commercial paper and repurchase agreement of $4.1 billion and net proceeds from issuance of term debt of $2.2 billion.
+Debt
+The Company issues unsecured short-term promissory notes (“Commercial Paper”) pursuant to a commercial paper program. The Company uses the net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of March 27, 2021, the Company had $5.0 billion of Commercial Paper outstanding, with a weighted-average interest rate of 0.06% and maturities generally less than nine months.
+As of March 27, 2021, the Company had outstanding floating- and fixed-rate notes with varying maturities for an aggregate principal amount of $116.0 billion (collectively the “Notes”). During the first six months of 2021, the Company issued $13.9 billion and repaid or redeemed $4.5 billion of Notes. The Company has entered, and in the future may enter, into interest rate swaps to manage interest rate risk on the Notes. In addition, the Company has entered, and in the future may enter, into foreign currency swaps to manage foreign currency risk on the Notes.
+Further information regarding the Company’s debt issuances and related hedging activity can be found in Part I, Item 1 of this Form 10-Q in the Notes to Condensed Consolidated Financial Statements in Note 3, “Financial Instruments” and Note 6, “Debt.”
+Capital Return
+As of March 27, 2021, the Company was authorized to purchase up to $225 billion of the Company’s common stock under a share repurchase program (the “Program”). During the six months ended March 27, 2021, the Company repurchased 347 million shares of its common stock for $43.0 billion, bringing the total utilization under the Program to $211.6 billion. On April 28, 2021, the Company announced the Board of Directors increased the Program authorization by $90 billion. The Program does not obligate the Company to acquire any specific number of shares. Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+On April 28, 2021, the Company also announced the Board of Directors raised the Company’s quarterly cash dividend from $0.205 to $0.22 per share, beginning with the dividend to be paid during the third quarter of 2021. The Company intends to increase its dividend on an annual basis, subject to declaration by the Board of Directors.
+Contractual Obligations
+Leases
+The Company has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing and data center space. The Company’s retail store and other facility leases typically have original terms not exceeding 10 years and generally contain multi-year renewal options. The Company’s total fixed lease payment obligation of $13.1 billion as of March 27, 2021 included future payments under leases that had commenced as of March 27, 2021, and were therefore recorded on the Company’s Condensed Consolidated Balance Sheet, as well as leases that had been signed but not yet commenced as of March 27, 2021.
+Apple Inc. | Q2 2021 Form 10-Q | 29
+
+Manufacturing Purchase Obligations
+The Company utilizes several outsourcing partners to manufacture sub-assemblies for the Company’s products and to perform final assembly and testing of finished products. These outsourcing partners acquire components and build product based on demand information supplied by the Company, which typically covers periods up to 150 days. The Company also obtains individual components for its products from a wide variety of individual suppliers. As of March 27, 2021, the Company expects to pay $35.4 billion under manufacturing-related supplier arrangements, which are primarily noncancelable.
+Other Purchase Obligations
+The Company’s other purchase obligations primarily consist of noncancelable obligations to acquire capital assets, including product tooling and manufacturing process equipment, and noncancelable obligations related to advertising, content creation and Internet and telecommunications services. As of March 27, 2021, the Company had other purchase obligations of $8.6 billion.
+Deemed Repatriation Tax Payable
+As of March 27, 2021, the balance of the deemed repatriation tax payable imposed by the U.S. Tax Cuts and Jobs Act (the “Act”) was $27.8 billion, of which $25.1 billion was included in other non-current liabilities in the Company’s Condensed Consolidated Balance Sheet. The Company pays the deemed repatriation tax payable in installments in accordance with the Act.
+Other Non-Current Liabilities
+The Company’s remaining other non-current liabilities primarily consist of items for which the Company is unable to make a reasonably reliable estimate of the timing or amount of payments.
+Critical Accounting Policies and Estimates
+The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles and the Company’s discussion and analysis of its financial condition and operating results require the Company’s management to make judgments, assumptions and estimates that affect the amounts reported. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material.
+Note 1, “Summary of Significant Accounting Policies” in Part I, Item 1 of this Form 10-Q and in the Notes to Consolidated Financial Statements in Part II, Item 8 of the 2020 Form 10-K, and “Critical Accounting Policies and Estimates” in Part II, Item 7 of the 2020 Form 10-K describe the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements. There have been no material changes to the Company’s critical accounting policies and estimates since the 2020 Form 10-K.
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk
+There have been no material changes to the Company’s market risk during the first six months of 2021. For a discussion of the Company’s exposure to market risk, refer to the Company’s market risk disclosures set forth in Part II, Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” of the 2020 Form 10-K.
+Item 4.    Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Based on an evaluation under the supervision and with the participation of the Company’s management, the Company’s principal executive officer and principal financial officer have concluded that the Company’s disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act were effective as of March 27, 2021 to provide reasonable assurance that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and (ii) accumulated and communicated to the Company’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Control over Financial Reporting
+There were no changes in the Company’s internal control over financial reporting during the second quarter of 2021, which were identified in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Apple Inc. | Q2 2021 Form 10-Q | 30
+
+PART II — OTHER INFORMATION
+Item 1.    Legal Proceedings
+The Company is subject to legal proceedings and claims that have not been fully resolved and that have arisen in the ordinary course of business. The Company’s material legal proceedings are described in Part I, Item 1 of this Form 10-Q in the Notes to Condensed Consolidated Financial Statements in Note 10, “Commitments and Contingencies” under the heading “Contingencies.”
+The outcome of litigation is inherently uncertain. If one or more legal matters were resolved against the Company in a reporting period for amounts above management’s expectations, the Company’s financial condition and operating results for that reporting period could be materially adversely affected. The Company settled certain matters during the second quarter of 2021 that did not individually or in the aggregate have a material impact on the Company’s financial condition or operating results.
+Item 1A.    Risk Factors
+The business, financial condition and operating results of the Company can be affected by a number of factors, whether currently known or unknown, including but not limited to those described in Part I, Item 1A of the 2020 Form 10-K under the heading “Risk Factors,” any one or more of which could, directly or indirectly, cause the Company’s actual financial condition and operating results to vary materially from past, or from anticipated future, financial condition and operating results. Any of these factors, in whole or in part, could materially and adversely affect the Company’s business, financial condition, operating results and stock price. There have been no material changes to the Company’s risk factors since the 2020 Form 10-K.
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+Share repurchase activity during the three months ended March 27, 2021 was as follows (in millions, except number of shares, which are reflected in thousands, and per share amounts):
+																										
+Periods		Total Number
+of Shares Purchased		Average Price
+Paid Per Share		Total Number of Shares
+Purchased as Part of Publicly
+Announced Plans or Programs		Approximate Dollar Value of
+Shares That May Yet Be Purchased
+Under the Plans or Programs (1)
+December 27, 2020 to January 30, 2021:								
+Open market and privately negotiated purchases
+		63,892 			$	133.04 			63,892 			
+								
+January 31, 2021 to February 27, 2021:								
+Open market and privately negotiated purchases
+		34,328 			$	131.09 			34,328 			
+								
+February 28, 2021 to March 27, 2021:								
+Open market and privately negotiated purchases
+		49,187 			$	121.98 			49,187 			
+Total		147,407 							$	13,352 	
+(1)As of March 27, 2021, the Company was authorized to purchase up to $225 billion of the Company’s common stock under the Program, announced on April 30, 2020, of which $211.6 billion had been utilized. The remaining $13.4 billion in the table represents the amount available to repurchase shares under the Program as of March 27, 2021. On April 28, 2021, the Company announced the Board of Directors increased the Program authorization by $90 billion. The Program does not obligate the Company to acquire any specific number of shares. Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
+Item 3.    Defaults Upon Senior Securities
+None.
+Item 4.    Mine Safety Disclosures
+Not applicable.
+Apple Inc. | Q2 2021 Form 10-Q | 31
+
+Item 5.    Other Information
+None.
+Item 6.    Exhibits
+																										
+				Incorporated by Reference
+
+Exhibit
+Number
+		Exhibit Description		Form		Exhibit		Filing Date/
+Period End Date
+4.1		
+Officer’s Certificate of the Registrant, dated as of February 8, 2021, including forms of global notes representing the 0.700% Notes due 2026, 1.200% Notes due 2028, 1.650% Notes due 2031, 2.375% Notes due 2041, 2.650% Notes due 2051 and 2.800% Notes due 2061.
+		8-K		4.1		2/8/21
+31.1*		
+Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.
+						
+31.2*		
+Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.
+						
+32.1**		
+Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.
+						
+101*		
+Inline XBRL Document Set for the condensed consolidated financial statements and accompanying notes in Part I, Item 1, “Financial Statements” of this Quarterly Report on Form 10-Q.
+						
+104*		
+Inline XBRL for the cover page of this Quarterly Report on Form 10-Q, included in the Exhibit 101 Inline XBRL Document Set.
+						
+*     Filed herewith.
+**    Furnished herewith.
+Apple Inc. | Q2 2021 Form 10-Q | 32
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+											
+April 28, 2021	Apple Inc.
+			
+	By:		/s/ Luca Maestri
+			Luca Maestri
+			Senior Vice President,
+Chief Financial Officer
+Apple Inc. | Q2 2021 Form 10-Q | 33
